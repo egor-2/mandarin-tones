@@ -5,7 +5,7 @@
 3. Run `python start.py`
 4. When you run for the first time, the script will download Qwen3-TTS weights from hugginface (2.4GB), which may take a while
 
-Requires Apple M1-5 (uses PyTorch MPS, but feel free to edit if otherwise).
+Requires Apple Silicon (uses MLX).
 
 # Overview
 
