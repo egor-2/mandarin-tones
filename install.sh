@@ -1,26 +1,21 @@
 #!/bin/bash
 # Install script for Chinese Tone Guessing Game
-# Requires: macOS on Apple Silicon (M1/M2/M3/M4), Python 3.11
+# Requires: macOS on Apple Silicon (M1/M2/M3/M4)
+#
+# Packages installed:
+#   mlx-audio==0.4.3       - MLX-based text-to-speech
+#   soundfile==0.13.1      - Audio file I/O
+#   numpy==2.4.5           - Numerical computing
+#   misaki[zh]==0.9.4      - Chinese text processing
+#   pypinyin               - Chinese character to pinyin conversion
 
 set -e
 
-PYTHON="/opt/homebrew/bin/python3.11"
-VENV="ml_env"
-
-if [ ! -f "$PYTHON" ]; then
-    echo "Python 3.11 not found at $PYTHON"
-    echo "Install with: brew install python@3.11"
-    exit 1
-fi
-
-echo "Creating virtual environment '$VENV'..."
-$PYTHON -m venv ~/$VENV
-
 echo "Upgrading pip..."
-~/$VENV/bin/pip install --upgrade pip
+pip install --upgrade pip
 
 echo "Installing dependencies..."
-~/$VENV/bin/pip install \
+pip install \
     mlx-audio==0.4.3 \
     soundfile==0.13.1 \
     numpy==2.4.5 \
@@ -28,7 +23,7 @@ echo "Installing dependencies..."
     pypinyin
 
 echo "Downloading TTS model..."
-~/$VENV/bin/python -c "
+python -c "
 from mlx_audio.tts.utils import load_model
 load_model('mlx-community/Qwen3-TTS-12Hz-0.6B-Base-bf16')
 print('Model downloaded OK')
@@ -36,4 +31,4 @@ print('Model downloaded OK')
 
 echo ""
 echo "Installation complete!"
-echo "Run the game with: ~/$VENV/bin/python start.py"
+echo "Run the game with: python start.py"
