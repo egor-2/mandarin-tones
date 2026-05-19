@@ -1,3230 +1,1292 @@
 [
  {
-  "hanzi": "一万",
-  "pinyin": "yīwàn",
-  "tones": "1-4",
-  "meaning": "ten thousand"
+  "hanzi": "八",
+  "pinyin": "bā",
+  "tones": "1",
+  "meaning": "eight"
  },
  {
-  "hanzi": "一共",
-  "pinyin": "yīgòng",
-  "tones": "1-4",
-  "meaning": "in total"
+  "hanzi": "帮",
+  "pinyin": "bāng",
+  "tones": "1",
+  "meaning": "to help"
  },
  {
-  "hanzi": "一分钟",
-  "pinyin": "yìfēnzhōng",
-  "tones": "4-1-1",
-  "meaning": "one minute"
+  "hanzi": "杯",
+  "pinyin": "bēi",
+  "tones": "1",
+  "meaning": "cup"
  },
  {
-  "hanzi": "一千",
-  "pinyin": "yīqiān",
-  "tones": "1-1",
-  "meaning": "one thousand"
+  "hanzi": "穿",
+  "pinyin": "chuān",
+  "tones": "1",
+  "meaning": "to wear"
  },
  {
-  "hanzi": "一半",
-  "pinyin": "yíbàn",
-  "tones": "2-4",
-  "meaning": "one half"
+  "hanzi": "窗",
+  "pinyin": "chuāng",
+  "tones": "1",
+  "meaning": "window"
  },
  {
-  "hanzi": "一小时",
-  "pinyin": "yīxiǎoshí",
-  "tones": "1-3-2",
-  "meaning": "one hour"
+  "hanzi": "车",
+  "pinyin": "chē",
+  "tones": "1",
+  "meaning": "car; vehicle"
  },
  {
-  "hanzi": "一秒钟",
-  "pinyin": "yīmiǎozhōng",
-  "tones": "1-3-1",
-  "meaning": "one second"
+  "hanzi": "吃",
+  "pinyin": "chī",
+  "tones": "1",
+  "meaning": "to eat"
  },
  {
-  "hanzi": "丈夫",
-  "pinyin": "zhàngfū",
-  "tones": "4-1",
-  "meaning": "husband"
+  "hanzi": "春",
+  "pinyin": "chūn",
+  "tones": "1",
+  "meaning": "spring"
  },
  {
-  "hanzi": "三代同堂",
-  "pinyin": "sāndàitóngtáng",
-  "tones": "1-4-2-2",
-  "meaning": "three generations together"
+  "hanzi": "多",
+  "pinyin": "duō",
+  "tones": "1",
+  "meaning": "many; much"
  },
  {
-  "hanzi": "三倍",
-  "pinyin": "sānbèi",
-  "tones": "1-4",
-  "meaning": "triple"
+  "hanzi": "刀",
+  "pinyin": "dāo",
+  "tones": "1",
+  "meaning": "knife"
  },
  {
-  "hanzi": "上个月",
-  "pinyin": "shànggèyuè",
-  "tones": "4-4-4",
-  "meaning": "last month"
+  "hanzi": "灯",
+  "pinyin": "dēng",
+  "tones": "1",
+  "meaning": "lamp; light"
  },
  {
-  "hanzi": "上午",
-  "pinyin": "shàngwǔ",
-  "tones": "4-3",
-  "meaning": "morning"
+  "hanzi": "东",
+  "pinyin": "dōng",
+  "tones": "1",
+  "meaning": "east"
  },
  {
-  "hanzi": "上厕所",
-  "pinyin": "shàngcèsuǒ",
-  "tones": "4-4-3",
-  "meaning": "use the restroom"
- },
- {
-  "hanzi": "上周",
-  "pinyin": "shàngzhōu",
-  "tones": "4-1",
-  "meaning": "last week"
- },
- {
-  "hanzi": "上班",
-  "pinyin": "shàngbān",
-  "tones": "4-1",
-  "meaning": "go to work"
- },
- {
-  "hanzi": "上课",
-  "pinyin": "shàngkè",
-  "tones": "4-4",
-  "meaning": "attend class"
- },
- {
-  "hanzi": "上车",
-  "pinyin": "shàngchē",
-  "tones": "4-1",
-  "meaning": "get on vehicle"
- },
- {
-  "hanzi": "下个月",
-  "pinyin": "xiàgèyuè",
-  "tones": "4-4-4",
-  "meaning": "next month"
- },
- {
-  "hanzi": "下午",
-  "pinyin": "xiàwǔ",
-  "tones": "4-3",
-  "meaning": "afternoon"
- },
- {
-  "hanzi": "下周",
-  "pinyin": "xiàzhōu",
-  "tones": "4-1",
-  "meaning": "next week"
- },
- {
-  "hanzi": "下班",
-  "pinyin": "xiàbān",
-  "tones": "4-1",
-  "meaning": "get off work"
- },
- {
-  "hanzi": "下课",
-  "pinyin": "xiàkè",
-  "tones": "4-4",
-  "meaning": "finish class"
- },
- {
-  "hanzi": "下车",
-  "pinyin": "xiàchē",
-  "tones": "4-1",
-  "meaning": "get off vehicle"
- },
- {
-  "hanzi": "下雨",
-  "pinyin": "xiàyǔ",
-  "tones": "4-3",
-  "meaning": "rain"
- },
- {
-  "hanzi": "下雪",
-  "pinyin": "xiàxuě",
-  "tones": "4-3",
-  "meaning": "snow"
- },
- {
-  "hanzi": "专业",
-  "pinyin": "zhuānyè",
-  "tones": "1-4",
-  "meaning": "major/profession"
- },
- {
-  "hanzi": "两倍",
-  "pinyin": "liǎngbèi",
-  "tones": "3-4",
-  "meaning": "double"
- },
- {
-  "hanzi": "中午",
-  "pinyin": "zhōngwǔ",
-  "tones": "1-3",
-  "meaning": "noon"
- },
- {
-  "hanzi": "中学",
-  "pinyin": "zhōngxué",
-  "tones": "1-2",
-  "meaning": "middle school"
- },
- {
-  "hanzi": "乌龙茶",
-  "pinyin": "wūlóngchá",
-  "tones": "1-2-2",
-  "meaning": "oolong tea"
- },
- {
-  "hanzi": "乐观",
-  "pinyin": "lèguān",
-  "tones": "4-1",
-  "meaning": "optimistic"
- },
- {
-  "hanzi": "买东西",
-  "pinyin": "mǎidōngxī",
-  "tones": "3-1-1",
-  "meaning": "go shopping"
- },
- {
-  "hanzi": "买票",
-  "pinyin": "mǎipiào",
-  "tones": "3-4",
-  "meaning": "buy tickets"
- },
- {
-  "hanzi": "亏损",
-  "pinyin": "kuīsǔn",
-  "tones": "1-3",
-  "meaning": "loss/deficit"
- },
- {
-  "hanzi": "亲密无间",
-  "pinyin": "qīnmìwújiàn",
-  "tones": "1-4-2-4",
-  "meaning": "very close/intimate"
- },
- {
-  "hanzi": "亲戚",
-  "pinyin": "qīnqī",
-  "tones": "1-1",
-  "meaning": "relatives"
- },
- {
-  "hanzi": "什么时候",
-  "pinyin": "shénmeshíhòu",
-  "tones": "2-0-2-4",
-  "meaning": "when"
- },
- {
-  "hanzi": "今天",
-  "pinyin": "jīntiān",
-  "tones": "1-1",
-  "meaning": "today"
- },
- {
-  "hanzi": "今年",
-  "pinyin": "jīnnián",
-  "tones": "1-2",
-  "meaning": "this year"
- },
- {
-  "hanzi": "从来不",
-  "pinyin": "cóngláibù",
-  "tones": "2-2-4",
-  "meaning": "never"
- },
- {
-  "hanzi": "付款",
-  "pinyin": "fùkuǎn",
-  "tones": "4-3",
-  "meaning": "pay"
- },
- {
-  "hanzi": "代理",
-  "pinyin": "dàilǐ",
-  "tones": "4-3",
-  "meaning": "agent/proxy"
- },
- {
-  "hanzi": "价格",
-  "pinyin": "jiàgé",
-  "tones": "4-2",
-  "meaning": "price"
- },
- {
-  "hanzi": "优惠券",
-  "pinyin": "yōuhuìquàn",
-  "tones": "1-4-4",
-  "meaning": "coupon"
- },
- {
-  "hanzi": "伤心",
-  "pinyin": "shāngxīn",
-  "tones": "1-1",
-  "meaning": "sad"
- },
- {
-  "hanzi": "体检",
-  "pinyin": "tǐjiǎn",
-  "tones": "3-3",
-  "meaning": "physical exam"
- },
- {
-  "hanzi": "作业",
-  "pinyin": "zuòyè",
-  "tones": "4-4",
-  "meaning": "homework"
- },
- {
-  "hanzi": "供应商",
-  "pinyin": "gōngyìngshāng",
-  "tones": "1-4-1",
-  "meaning": "supplier"
- },
- {
-  "hanzi": "便宜货",
-  "pinyin": "piányíhuò",
-  "tones": "2-2-4",
-  "meaning": "bargain"
- },
- {
-  "hanzi": "俯卧撑",
-  "pinyin": "fǔwòchēng",
-  "tones": "3-4-1",
-  "meaning": "push-up"
- },
- {
-  "hanzi": "倒垃圾",
-  "pinyin": "dàolājī",
-  "tones": "4-1-1",
-  "meaning": "take out trash"
- },
- {
-  "hanzi": "做生意",
-  "pinyin": "zuòshēngyì",
-  "tones": "4-1-4",
-  "meaning": "do business"
- },
- {
-  "hanzi": "停车场",
-  "pinyin": "tíngchēchǎng",
-  "tones": "2-1-3",
-  "meaning": "parking lot"
- },
- {
-  "hanzi": "偶尔",
-  "pinyin": "ǒuěr",
-  "tones": "3-3",
-  "meaning": "occasionally"
- },
- {
-  "hanzi": "儿女双全",
-  "pinyin": "érnǚshuāngquán",
-  "tones": "2-3-1-2",
-  "meaning": "have both son and daughter"
- },
- {
-  "hanzi": "儿子",
-  "pinyin": "érzi",
-  "tones": "2-0",
-  "meaning": "son"
- },
- {
-  "hanzi": "兄弟",
-  "pinyin": "xiōngdì",
-  "tones": "1-4",
-  "meaning": "brothers"
- },
- {
-  "hanzi": "兄弟姐妹",
-  "pinyin": "xiōngdìjiěmèi",
-  "tones": "1-4-3-4",
-  "meaning": "siblings"
- },
- {
-  "hanzi": "充电",
-  "pinyin": "chōngdiàn",
-  "tones": "1-4",
-  "meaning": "charge (battery)"
- },
- {
-  "hanzi": "入学",
-  "pinyin": "rùxué",
-  "tones": "4-2",
-  "meaning": "enroll in school"
- },
- {
-  "hanzi": "公交车",
-  "pinyin": "gōngjiāochē",
-  "tones": "1-1-1",
-  "meaning": "bus"
- },
- {
-  "hanzi": "公共汽车",
-  "pinyin": "gōnggòngqìchē",
-  "tones": "1-4-4-1",
-  "meaning": "public bus"
- },
- {
-  "hanzi": "公司",
-  "pinyin": "gōngsī",
-  "tones": "1-1",
-  "meaning": "company"
- },
- {
-  "hanzi": "公里",
-  "pinyin": "gōnglǐ",
-  "tones": "1-3",
-  "meaning": "kilometer"
- },
- {
-  "hanzi": "关店",
-  "pinyin": "guāndiàn",
-  "tones": "1-4",
-  "meaning": "close the shop"
- },
- {
-  "hanzi": "关灯",
-  "pinyin": "guāndēng",
-  "tones": "1-1",
-  "meaning": "turn off light"
- },
- {
-  "hanzi": "关空调",
-  "pinyin": "guānkōngtiáo",
-  "tones": "1-1-2",
-  "meaning": "turn off AC"
- },
- {
-  "hanzi": "关窗户",
-  "pinyin": "guānchuānghù",
-  "tones": "1-1-4",
-  "meaning": "close the window"
- },
- {
-  "hanzi": "关门",
-  "pinyin": "guānmén",
-  "tones": "1-2",
-  "meaning": "close the door"
- },
- {
-  "hanzi": "兴奋",
-  "pinyin": "xīngfèn",
-  "tones": "1-4",
-  "meaning": "excited"
- },
- {
-  "hanzi": "养育子女",
-  "pinyin": "yǎngyùzǐnǚ",
-  "tones": "3-4-3-3",
-  "meaning": "raise children"
- },
- {
-  "hanzi": "内疚",
-  "pinyin": "nèijiù",
-  "tones": "4-4",
-  "meaning": "guilty"
- },
- {
-  "hanzi": "冬天",
-  "pinyin": "dōngtiān",
-  "tones": "1-1",
+  "hanzi": "冬",
+  "pinyin": "dōng",
+  "tones": "1",
   "meaning": "winter"
  },
  {
-  "hanzi": "冬至",
-  "pinyin": "dōngzhì",
-  "tones": "1-4",
-  "meaning": "winter solstice"
+  "hanzi": "方",
+  "pinyin": "fāng",
+  "tones": "1",
+  "meaning": "square; direction"
  },
  {
-  "hanzi": "冰淇淋",
-  "pinyin": "bīngqílín",
-  "tones": "1-2-2",
-  "meaning": "ice cream"
+  "hanzi": "飞",
+  "pinyin": "fēi",
+  "tones": "1",
+  "meaning": "to fly"
  },
  {
-  "hanzi": "冰箱",
-  "pinyin": "bīngxiāng",
-  "tones": "1-1",
-  "meaning": "refrigerator"
+  "hanzi": "风",
+  "pinyin": "fēng",
+  "tones": "1",
+  "meaning": "wind"
  },
  {
-  "hanzi": "冰雪",
-  "pinyin": "bīngxuě",
-  "tones": "1-3",
-  "meaning": "ice and snow"
+  "hanzi": "关",
+  "pinyin": "guān",
+  "tones": "1",
+  "meaning": "to close"
  },
  {
-  "hanzi": "冷漠",
-  "pinyin": "lěngmò",
-  "tones": "3-4",
-  "meaning": "indifferent/cold"
+  "hanzi": "高",
+  "pinyin": "gāo",
+  "tones": "1",
+  "meaning": "tall; high"
  },
  {
-  "hanzi": "凌晨",
-  "pinyin": "língchén",
-  "tones": "2-2",
-  "meaning": "early morning"
+  "hanzi": "哥",
+  "pinyin": "gē",
+  "tones": "1",
+  "meaning": "older brother"
  },
  {
-  "hanzi": "几个",
-  "pinyin": "jǐgè",
-  "tones": "3-4",
-  "meaning": "how many"
+  "hanzi": "歌",
+  "pinyin": "gē",
+  "tones": "1",
+  "meaning": "song"
  },
  {
-  "hanzi": "几点",
-  "pinyin": "jǐdiǎn",
-  "tones": "3-3",
-  "meaning": "what time"
+  "hanzi": "花",
+  "pinyin": "huā",
+  "tones": "1",
+  "meaning": "flower"
  },
  {
-  "hanzi": "出发",
-  "pinyin": "chūfā",
-  "tones": "1-1",
-  "meaning": "depart"
+  "hanzi": "喝",
+  "pinyin": "hē",
+  "tones": "1",
+  "meaning": "to drink"
  },
  {
-  "hanzi": "出发地",
-  "pinyin": "chūfādì",
-  "tones": "1-1-4",
-  "meaning": "departure place"
+  "hanzi": "黑",
+  "pinyin": "hēi",
+  "tones": "1",
+  "meaning": "black"
  },
  {
-  "hanzi": "出国",
-  "pinyin": "chūguó",
-  "tones": "1-2",
-  "meaning": "go abroad"
+  "hanzi": "家",
+  "pinyin": "jiā",
+  "tones": "1",
+  "meaning": "home; family"
  },
  {
-  "hanzi": "出租车",
-  "pinyin": "chūzūchē",
-  "tones": "1-1-1",
-  "meaning": "taxi"
+  "hanzi": "鸡",
+  "pinyin": "jī",
+  "tones": "1",
+  "meaning": "chicken"
  },
  {
-  "hanzi": "利润",
-  "pinyin": "lìrùn",
-  "tones": "4-4",
-  "meaning": "profit"
+  "hanzi": "开",
+  "pinyin": "kāi",
+  "tones": "1",
+  "meaning": "to open"
  },
  {
-  "hanzi": "刮风",
-  "pinyin": "guāfēng",
-  "tones": "1-1",
-  "meaning": "windy"
+  "hanzi": "哭",
+  "pinyin": "kū",
+  "tones": "1",
+  "meaning": "to cry"
  },
  {
-  "hanzi": "到达",
-  "pinyin": "dàodá",
-  "tones": "4-2",
-  "meaning": "arrive"
+  "hanzi": "千",
+  "pinyin": "qiān",
+  "tones": "1",
+  "meaning": "thousand"
  },
  {
-  "hanzi": "刷卡",
-  "pinyin": "shuākǎ",
-  "tones": "1-3",
-  "meaning": "swipe card"
- },
- {
-  "hanzi": "刷手机",
-  "pinyin": "shuāshǒujī",
-  "tones": "1-3-1",
-  "meaning": "scroll phone"
- },
- {
-  "hanzi": "刷牙",
-  "pinyin": "shuāyá",
-  "tones": "1-2",
-  "meaning": "brush teeth"
- },
- {
-  "hanzi": "刷锅",
-  "pinyin": "shuāguō",
-  "tones": "1-1",
-  "meaning": "scrub the pot"
- },
- {
-  "hanzi": "刷马桶",
-  "pinyin": "shuāmǎtǒng",
-  "tones": "1-3-3",
-  "meaning": "clean the toilet"
- },
- {
-  "hanzi": "前天",
-  "pinyin": "qiántiān",
-  "tones": "2-1",
-  "meaning": "day before yesterday"
- },
- {
-  "hanzi": "剪指甲",
-  "pinyin": "jiǎnzhǐjiǎ",
-  "tones": "3-3-3",
-  "meaning": "trim nails"
- },
- {
-  "hanzi": "办公室",
-  "pinyin": "bàngōngshì",
-  "tones": "4-1-4",
-  "meaning": "office"
- },
- {
-  "hanzi": "加油站",
-  "pinyin": "jiāyóuzhàn",
-  "tones": "1-2-4",
-  "meaning": "gas station"
- },
- {
-  "hanzi": "加班",
-  "pinyin": "jiābān",
-  "tones": "1-1",
-  "meaning": "work overtime"
- },
- {
-  "hanzi": "勇敢",
-  "pinyin": "yǒnggǎn",
-  "tones": "3-3",
-  "meaning": "brave"
- },
- {
-  "hanzi": "包子",
-  "pinyin": "bāozi",
-  "tones": "1-0",
-  "meaning": "steamed bun"
- },
- {
-  "hanzi": "化妆",
-  "pinyin": "huàzhuāng",
-  "tones": "4-1",
-  "meaning": "put on makeup"
- },
- {
-  "hanzi": "北极光",
-  "pinyin": "běijíguāng",
-  "tones": "3-2-1",
-  "meaning": "northern lights"
- },
- {
-  "hanzi": "医生",
-  "pinyin": "yīshēng",
-  "tones": "1-1",
-  "meaning": "doctor"
- },
- {
-  "hanzi": "十字路口",
-  "pinyin": "shízìlùkǒu",
-  "tones": "2-4-4-3",
-  "meaning": "intersection"
- },
- {
-  "hanzi": "半夜",
-  "pinyin": "bànyè",
-  "tones": "4-4",
-  "meaning": "midnight"
- },
- {
-  "hanzi": "半小时",
-  "pinyin": "bànxiǎoshí",
-  "tones": "4-3-2",
-  "meaning": "half an hour"
- },
- {
-  "hanzi": "卖东西",
-  "pinyin": "màidōngxī",
-  "tones": "4-1-1",
-  "meaning": "sell things"
- },
- {
-  "hanzi": "博士",
-  "pinyin": "bóshì",
-  "tones": "2-4",
-  "meaning": "doctorate"
- },
- {
-  "hanzi": "卸妆",
-  "pinyin": "xièzhuāng",
-  "tones": "4-1",
-  "meaning": "remove makeup"
- },
- {
-  "hanzi": "历史",
-  "pinyin": "lìshǐ",
-  "tones": "4-3",
-  "meaning": "history"
- },
- {
-  "hanzi": "去年",
-  "pinyin": "qùnián",
-  "tones": "4-2",
-  "meaning": "last year"
- },
- {
-  "hanzi": "发烧",
-  "pinyin": "fāshāo",
-  "tones": "1-1",
-  "meaning": "have a fever"
- },
- {
-  "hanzi": "发票",
-  "pinyin": "fāpiào",
-  "tones": "1-4",
-  "meaning": "receipt/invoice"
- },
- {
-  "hanzi": "叔叔",
-  "pinyin": "shūshū",
-  "tones": "1-1",
-  "meaning": "uncle (father's younger brother)"
- },
- {
-  "hanzi": "叔叔阿姨",
-  "pinyin": "shūshūāyí",
-  "tones": "1-1-1-2",
-  "meaning": "uncle and aunt"
- },
- {
-  "hanzi": "叠衣服",
-  "pinyin": "diéyīfú",
-  "tones": "2-1-2",
-  "meaning": "fold clothes"
- },
- {
-  "hanzi": "叠被子",
-  "pinyin": "diébèizi",
-  "tones": "2-4-0",
-  "meaning": "fold the quilt"
- },
- {
-  "hanzi": "台风",
-  "pinyin": "táifēng",
-  "tones": "2-1",
-  "meaning": "typhoon"
- },
- {
-  "hanzi": "右转",
-  "pinyin": "yòuzhuǎn",
-  "tones": "4-3",
-  "meaning": "turn right"
- },
- {
-  "hanzi": "吃饭",
-  "pinyin": "chīfàn",
-  "tones": "1-4",
-  "meaning": "eat"
- },
- {
-  "hanzi": "合同",
-  "pinyin": "hétóng",
-  "tones": "2-2",
-  "meaning": "contract"
- },
- {
-  "hanzi": "同事",
-  "pinyin": "tóngshì",
-  "tones": "2-4",
-  "meaning": "colleague"
- },
- {
-  "hanzi": "同学",
-  "pinyin": "tóngxué",
-  "tones": "2-2",
-  "meaning": "classmate"
- },
- {
-  "hanzi": "名牌",
-  "pinyin": "míngpái",
-  "tones": "2-2",
-  "meaning": "brand name"
- },
- {
-  "hanzi": "后天",
-  "pinyin": "hòutiān",
-  "tones": "4-1",
-  "meaning": "day after tomorrow"
- },
- {
-  "hanzi": "向前",
-  "pinyin": "xiàngqián",
-  "tones": "4-2",
-  "meaning": "forward"
- },
- {
-  "hanzi": "向后",
-  "pinyin": "xiànghòu",
-  "tones": "4-4",
-  "meaning": "backward"
- },
- {
-  "hanzi": "听音乐",
-  "pinyin": "tīngyīnyuè",
-  "tones": "1-1-4",
-  "meaning": "listen to music"
- },
- {
-  "hanzi": "吸尘器",
-  "pinyin": "xīchénqì",
-  "tones": "1-2-4",
-  "meaning": "vacuum cleaner"
- },
- {
-  "hanzi": "吹头发",
-  "pinyin": "chuītóufà",
-  "tones": "1-2-4",
-  "meaning": "blow-dry hair"
- },
- {
-  "hanzi": "员工",
-  "pinyin": "yuángōng",
-  "tones": "2-1",
-  "meaning": "employee"
- },
- {
-  "hanzi": "咖啡",
-  "pinyin": "kāfēi",
-  "tones": "1-1",
-  "meaning": "coffee"
- },
- {
-  "hanzi": "咳嗽",
-  "pinyin": "késòu",
-  "tones": "2-4",
-  "meaning": "cough"
- },
- {
-  "hanzi": "品牌",
-  "pinyin": "pǐnpái",
-  "tones": "3-2",
-  "meaning": "brand"
- },
- {
-  "hanzi": "售货员",
-  "pinyin": "shòuhuòyuán",
-  "tones": "4-4-2",
-  "meaning": "salesperson"
- },
- {
-  "hanzi": "商场",
-  "pinyin": "shāngchǎng",
-  "tones": "1-3",
-  "meaning": "shopping mall"
- },
- {
-  "hanzi": "啤酒",
-  "pinyin": "píjiǔ",
-  "tones": "2-3",
-  "meaning": "beer"
- },
- {
-  "hanzi": "善良",
-  "pinyin": "shànliáng",
-  "tones": "4-2",
-  "meaning": "kind-hearted"
- },
- {
-  "hanzi": "喝水",
-  "pinyin": "hēshuǐ",
-  "tones": "1-3",
-  "meaning": "drink water"
- },
- {
-  "hanzi": "喝茶",
-  "pinyin": "hēchá",
-  "tones": "1-2",
-  "meaning": "drink tea"
- },
- {
-  "hanzi": "嘴巴",
-  "pinyin": "zuǐbā",
-  "tones": "3-1",
-  "meaning": "mouth"
- },
- {
-  "hanzi": "四分之一",
-  "pinyin": "sìfēnzhīyī",
-  "tones": "4-1-1-1",
-  "meaning": "one quarter"
- },
- {
-  "hanzi": "回国",
-  "pinyin": "huíguó",
-  "tones": "2-2",
-  "meaning": "return to country"
- },
- {
-  "hanzi": "团圆饭",
-  "pinyin": "tuányuánfàn",
-  "tones": "2-2-4",
-  "meaning": "reunion dinner"
- },
- {
-  "hanzi": "固执",
-  "pinyin": "gùzhí",
-  "tones": "4-2",
-  "meaning": "stubborn"
- },
- {
-  "hanzi": "图书馆",
-  "pinyin": "túshūguǎn",
-  "tones": "2-1-3",
-  "meaning": "library"
- },
- {
-  "hanzi": "土豆",
-  "pinyin": "tǔdòu",
-  "tones": "3-4",
-  "meaning": "potato"
- },
- {
-  "hanzi": "地图",
-  "pinyin": "dìtú",
-  "tones": "4-2",
-  "meaning": "map"
- },
- {
-  "hanzi": "地铁",
-  "pinyin": "dìtiě",
-  "tones": "4-3",
-  "meaning": "subway"
- },
- {
-  "hanzi": "地铁站",
-  "pinyin": "dìtiězhàn",
-  "tones": "4-3-4",
-  "meaning": "subway station"
- },
- {
-  "hanzi": "地震",
-  "pinyin": "dìzhèn",
-  "tones": "4-4",
-  "meaning": "earthquake"
- },
- {
-  "hanzi": "坐车",
-  "pinyin": "zuòchē",
-  "tones": "4-1",
-  "meaning": "ride a vehicle"
- },
- {
-  "hanzi": "坚强",
-  "pinyin": "jiānqiáng",
-  "tones": "1-2",
-  "meaning": "strong/resilient"
- },
- {
-  "hanzi": "垃圾桶",
-  "pinyin": "lājītǒng",
-  "tones": "1-1-3",
-  "meaning": "trash can"
- },
- {
-  "hanzi": "堂姐妹",
-  "pinyin": "tángjiěmèi",
-  "tones": "2-3-4",
-  "meaning": "female cousins (paternal)"
- },
- {
-  "hanzi": "堂弟",
-  "pinyin": "tángdì",
-  "tones": "2-4",
-  "meaning": "male cousin (paternal younger)"
- },
- {
-  "hanzi": "夏天",
-  "pinyin": "xiàtiān",
-  "tones": "4-1",
-  "meaning": "summer"
- },
- {
-  "hanzi": "夏至",
-  "pinyin": "xiàzhì",
-  "tones": "4-4",
-  "meaning": "summer solstice"
- },
- {
-  "hanzi": "夕阳",
-  "pinyin": "xīyáng",
-  "tones": "1-2",
-  "meaning": "sunset"
- },
- {
-  "hanzi": "外公",
-  "pinyin": "wàigōng",
-  "tones": "4-1",
-  "meaning": "maternal grandfather"
- },
- {
-  "hanzi": "外公外婆",
-  "pinyin": "wàigōngwàipó",
-  "tones": "4-1-4-2",
-  "meaning": "maternal grandparents"
- },
- {
-  "hanzi": "外婆",
-  "pinyin": "wàipó",
-  "tones": "4-2",
-  "meaning": "maternal grandmother"
- },
- {
-  "hanzi": "多少钱",
-  "pinyin": "duōshǎoqián",
-  "tones": "1-3-2",
-  "meaning": "how much money"
- },
- {
-  "hanzi": "大学",
-  "pinyin": "dàxué",
-  "tones": "4-2",
-  "meaning": "university"
- },
- {
-  "hanzi": "大家庭",
-  "pinyin": "dàjiātíng",
-  "tones": "4-1-2",
-  "meaning": "extended family"
- },
- {
-  "hanzi": "大方",
-  "pinyin": "dàfāng",
-  "tones": "4-1",
-  "meaning": "generous"
- },
- {
-  "hanzi": "大约",
-  "pinyin": "dàyuē",
-  "tones": "4-1",
-  "meaning": "approximately"
- },
- {
-  "hanzi": "大蒜",
-  "pinyin": "dàsuàn",
-  "tones": "4-4",
-  "meaning": "garlic"
- },
- {
-  "hanzi": "天气",
-  "pinyin": "tiānqì",
-  "tones": "1-4",
-  "meaning": "weather"
- },
- {
-  "hanzi": "天真",
-  "pinyin": "tiānzhēn",
-  "tones": "1-1",
-  "meaning": "naive/innocent"
- },
- {
-  "hanzi": "夫妻",
-  "pinyin": "fūqī",
-  "tones": "1-1",
-  "meaning": "married couple"
- },
- {
-  "hanzi": "夫妻恩爱",
-  "pinyin": "fūqīēnài",
-  "tones": "1-1-1-4",
-  "meaning": "loving couple"
- },
- {
-  "hanzi": "失望",
-  "pinyin": "shīwàng",
-  "tones": "1-4",
-  "meaning": "disappointed"
- },
- {
-  "hanzi": "失眠",
-  "pinyin": "shīmián",
-  "tones": "1-2",
-  "meaning": "insomnia"
- },
- {
-  "hanzi": "头发",
-  "pinyin": "tóufà",
-  "tones": "2-4",
-  "meaning": "hair"
- },
- {
-  "hanzi": "头痛",
-  "pinyin": "tóutòng",
-  "tones": "2-4",
-  "meaning": "headache"
- },
- {
-  "hanzi": "奖学金",
-  "pinyin": "jiǎngxuéjīn",
-  "tones": "3-2-1",
-  "meaning": "scholarship"
- },
- {
-  "hanzi": "女儿",
-  "pinyin": "nǚér",
-  "tones": "3-2",
-  "meaning": "daughter"
- },
- {
-  "hanzi": "奶奶",
-  "pinyin": "nǎinǎi",
-  "tones": "3-3",
-  "meaning": "paternal grandmother"
- },
- {
-  "hanzi": "好奇",
-  "pinyin": "hàoqí",
-  "tones": "4-2",
-  "meaning": "curious"
- },
- {
-  "hanzi": "妻子",
-  "pinyin": "qīzǐ",
-  "tones": "1-3",
-  "meaning": "wife"
- },
- {
-  "hanzi": "姐妹",
-  "pinyin": "jiěmèi",
-  "tones": "3-4",
-  "meaning": "sisters"
- },
- {
-  "hanzi": "姑姑",
-  "pinyin": "gūgū",
-  "tones": "1-1",
-  "meaning": "paternal aunt"
- },
- {
-  "hanzi": "嫉妒",
-  "pinyin": "jídù",
-  "tones": "2-4",
-  "meaning": "jealous"
- },
- {
-  "hanzi": "孙女",
-  "pinyin": "sūnnǚ",
-  "tones": "1-3",
-  "meaning": "granddaughter"
- },
- {
-  "hanzi": "孙子",
-  "pinyin": "sūnzi",
-  "tones": "1-0",
-  "meaning": "grandson"
- },
- {
-  "hanzi": "孤独",
-  "pinyin": "gūdú",
-  "tones": "1-2",
-  "meaning": "lonely"
- },
- {
-  "hanzi": "学位",
-  "pinyin": "xuéwèi",
-  "tones": "2-4",
-  "meaning": "academic degree"
- },
- {
-  "hanzi": "学校",
-  "pinyin": "xuéxiào",
-  "tones": "2-4",
-  "meaning": "school"
- },
- {
-  "hanzi": "学生",
-  "pinyin": "xuéshēng",
-  "tones": "2-1",
-  "meaning": "student"
- },
- {
-  "hanzi": "定价",
-  "pinyin": "dìngjià",
-  "tones": "4-4",
-  "meaning": "set a price"
- },
- {
-  "hanzi": "宫保鸡丁",
-  "pinyin": "gōngbǎojīdīng",
-  "tones": "1-3-1-1",
-  "meaning": "kung pao chicken"
- },
- {
-  "hanzi": "害怕",
-  "pinyin": "hàipà",
-  "tones": "4-4",
-  "meaning": "afraid"
- },
- {
-  "hanzi": "家人",
-  "pinyin": "jiārén",
-  "tones": "1-2",
-  "meaning": "family members"
- },
- {
-  "hanzi": "家庭",
-  "pinyin": "jiātíng",
-  "tones": "1-2",
-  "meaning": "family/household"
- },
- {
-  "hanzi": "导航",
-  "pinyin": "dǎoháng",
-  "tones": "3-2",
-  "meaning": "navigation"
- },
- {
-  "hanzi": "小学",
-  "pinyin": "xiǎoxué",
-  "tones": "3-2",
-  "meaning": "elementary school"
- },
- {
-  "hanzi": "小气",
-  "pinyin": "xiǎoqì",
-  "tones": "3-4",
-  "meaning": "stingy"
- },
- {
-  "hanzi": "小腿",
-  "pinyin": "xiǎotuǐ",
-  "tones": "3-3",
-  "meaning": "calf (lower leg)"
- },
- {
-  "hanzi": "尴尬",
-  "pinyin": "gāngà",
-  "tones": "1-4",
-  "meaning": "awkward/embarrassing"
- },
- {
-  "hanzi": "山川",
-  "pinyin": "shānchuān",
-  "tones": "1-1",
-  "meaning": "mountains and rivers"
- },
- {
-  "hanzi": "工作",
-  "pinyin": "gōngzuò",
-  "tones": "1-4",
-  "meaning": "work/job"
- },
- {
-  "hanzi": "工程师",
-  "pinyin": "gōngchéngshī",
-  "tones": "1-2-1",
-  "meaning": "engineer"
- },
- {
-  "hanzi": "工资",
-  "pinyin": "gōngzī",
-  "tones": "1-1",
-  "meaning": "salary/wages"
- },
- {
-  "hanzi": "左转",
-  "pinyin": "zuǒzhuǎn",
-  "tones": "3-3",
-  "meaning": "turn left"
- },
- {
-  "hanzi": "差不多",
-  "pinyin": "chàbuduō",
-  "tones": "4-0-1",
-  "meaning": "almost the same"
- },
- {
-  "hanzi": "已经",
-  "pinyin": "yǐjīng",
-  "tones": "3-1",
-  "meaning": "already"
- },
- {
-  "hanzi": "师傅",
-  "pinyin": "shīfù",
-  "tones": "1-4",
-  "meaning": "master/skilled worker"
- },
- {
-  "hanzi": "干旱",
-  "pinyin": "gānhàn",
-  "tones": "1-4",
-  "meaning": "drought"
- },
- {
-  "hanzi": "平静",
-  "pinyin": "píngjìng",
-  "tones": "2-4",
-  "meaning": "calm/peaceful"
- },
- {
-  "hanzi": "幸福",
-  "pinyin": "xìngfú",
-  "tones": "4-2",
-  "meaning": "happiness"
- },
- {
-  "hanzi": "幼儿园",
-  "pinyin": "yòuéryuán",
-  "tones": "4-2-2",
-  "meaning": "kindergarten"
- },
- {
-  "hanzi": "库存",
-  "pinyin": "kùcún",
-  "tones": "4-2",
-  "meaning": "inventory/stock"
- },
- {
-  "hanzi": "店员",
-  "pinyin": "diànyuán",
-  "tones": "4-2",
-  "meaning": "shop clerk"
- },
- {
-  "hanzi": "开会",
-  "pinyin": "kāihuì",
-  "tones": "1-4",
-  "meaning": "hold a meeting"
- },
- {
-  "hanzi": "开店",
-  "pinyin": "kāidiàn",
-  "tones": "1-4",
-  "meaning": "open a shop"
- },
- {
-  "hanzi": "开心",
-  "pinyin": "kāixīn",
-  "tones": "1-1",
-  "meaning": "happy"
- },
- {
-  "hanzi": "开灯",
-  "pinyin": "kāidēng",
-  "tones": "1-1",
-  "meaning": "turn on light"
- },
- {
-  "hanzi": "开空调",
-  "pinyin": "kāikōngtiáo",
-  "tones": "1-1-2",
-  "meaning": "turn on AC"
- },
- {
-  "hanzi": "开窗户",
-  "pinyin": "kāichuānghù",
-  "tones": "1-1-4",
-  "meaning": "open the window"
- },
- {
-  "hanzi": "开车",
-  "pinyin": "kāichē",
-  "tones": "1-1",
-  "meaning": "drive a car"
- },
- {
-  "hanzi": "开门",
-  "pinyin": "kāimén",
-  "tones": "1-2",
-  "meaning": "open the door"
- },
- {
-  "hanzi": "彩虹",
-  "pinyin": "cǎihóng",
-  "tones": "3-2",
-  "meaning": "rainbow"
- },
- {
-  "hanzi": "往东",
-  "pinyin": "wǎngdōng",
-  "tones": "3-1",
-  "meaning": "go east"
- },
- {
-  "hanzi": "往北",
-  "pinyin": "wǎngběi",
-  "tones": "3-3",
-  "meaning": "go north"
- },
- {
-  "hanzi": "往南",
-  "pinyin": "wǎngnán",
-  "tones": "3-2",
-  "meaning": "go south"
- },
- {
-  "hanzi": "往西",
-  "pinyin": "wǎngxī",
-  "tones": "3-1",
-  "meaning": "go west"
- },
- {
-  "hanzi": "律师",
-  "pinyin": "lǜshī",
-  "tones": "4-1",
-  "meaning": "lawyer"
- },
- {
-  "hanzi": "徒弟",
-  "pinyin": "túdì",
-  "tones": "2-4",
-  "meaning": "apprentice/disciple"
- },
- {
-  "hanzi": "心脏",
-  "pinyin": "xīnzàng",
-  "tones": "1-4",
-  "meaning": "heart (organ)"
- },
- {
-  "hanzi": "心脏病",
-  "pinyin": "xīnzàngbìng",
-  "tones": "1-4-4",
-  "meaning": "heart disease"
- },
- {
-  "hanzi": "急救",
-  "pinyin": "jíjiù",
-  "tones": "2-4",
-  "meaning": "first aid"
- },
- {
-  "hanzi": "性价比",
-  "pinyin": "xìngjiàbǐ",
-  "tones": "4-4-3",
-  "meaning": "cost-effectiveness"
- },
- {
-  "hanzi": "总共",
-  "pinyin": "zǒnggòng",
-  "tones": "3-4",
-  "meaning": "in total"
- },
- {
-  "hanzi": "恋人",
-  "pinyin": "liànrén",
-  "tones": "4-2",
-  "meaning": "lover/partner"
- },
- {
-  "hanzi": "恐惧",
-  "pinyin": "kǒngjù",
-  "tones": "3-4",
-  "meaning": "fear/dread"
- },
- {
-  "hanzi": "悲观",
-  "pinyin": "bēiguān",
-  "tones": "1-1",
-  "meaning": "pessimistic"
- },
- {
-  "hanzi": "情同手足",
-  "pinyin": "qíngtóngshǒuzú",
-  "tones": "2-2-3-2",
-  "meaning": "close as siblings"
- },
- {
-  "hanzi": "惊讶",
-  "pinyin": "jīngyà",
-  "tones": "1-4",
-  "meaning": "surprised"
- },
- {
-  "hanzi": "感冒",
-  "pinyin": "gǎnmào",
-  "tones": "3-4",
-  "meaning": "cold (illness)"
- },
- {
-  "hanzi": "感激",
-  "pinyin": "gǎnjī",
-  "tones": "3-1",
-  "meaning": "grateful"
- },
- {
-  "hanzi": "愤怒",
-  "pinyin": "fènnù",
-  "tones": "4-4",
-  "meaning": "angry/furious"
- },
- {
-  "hanzi": "懒惰",
-  "pinyin": "lǎnduò",
-  "tones": "3-4",
-  "meaning": "lazy"
- },
- {
-  "hanzi": "成本",
-  "pinyin": "chéngběn",
-  "tones": "2-3",
-  "meaning": "cost"
- },
- {
-  "hanzi": "成熟",
-  "pinyin": "chéngshú",
-  "tones": "2-2",
-  "meaning": "mature/ripe"
- },
- {
-  "hanzi": "手指",
-  "pinyin": "shǒuzhǐ",
-  "tones": "3-3",
-  "meaning": "finger"
- },
- {
-  "hanzi": "手术",
-  "pinyin": "shǒushù",
-  "tones": "3-4",
-  "meaning": "surgery/operation"
- },
- {
-  "hanzi": "手腕",
-  "pinyin": "shǒuwàn",
-  "tones": "3-4",
-  "meaning": "wrist"
- },
- {
-  "hanzi": "手臂",
-  "pinyin": "shǒubì",
-  "tones": "3-4",
-  "meaning": "arm"
- },
- {
-  "hanzi": "手足情深",
-  "pinyin": "shǒuzúqíngshēn",
-  "tones": "3-2-2-1",
-  "meaning": "deep sibling bond"
- },
- {
-  "hanzi": "打扫卫生",
-  "pinyin": "dǎsǎowèishēng",
-  "tones": "3-3-4-1",
-  "meaning": "clean up"
- },
- {
-  "hanzi": "打折",
-  "pinyin": "dǎzhé",
-  "tones": "3-2",
-  "meaning": "discount"
- },
- {
-  "hanzi": "打车",
-  "pinyin": "dǎchē",
-  "tones": "3-1",
-  "meaning": "hail a taxi"
- },
- {
-  "hanzi": "打针",
-  "pinyin": "dǎzhēn",
-  "tones": "3-1",
-  "meaning": "get an injection"
- },
- {
-  "hanzi": "打雷",
-  "pinyin": "dǎléi",
-  "tones": "3-2",
-  "meaning": "thunder"
- },
- {
-  "hanzi": "扫地",
-  "pinyin": "sǎodì",
-  "tones": "3-4",
-  "meaning": "sweep the floor"
- },
- {
-  "hanzi": "扫把",
-  "pinyin": "sàobǎ",
-  "tones": "4-3",
-  "meaning": "broom"
- },
- {
-  "hanzi": "扭伤",
-  "pinyin": "niǔshāng",
-  "tones": "3-1",
-  "meaning": "sprain"
- },
- {
-  "hanzi": "批发",
-  "pinyin": "pīfā",
-  "tones": "1-1",
-  "meaning": "wholesale"
- },
- {
-  "hanzi": "找零",
-  "pinyin": "zhǎolíng",
-  "tones": "3-2",
-  "meaning": "give change"
- },
- {
-  "hanzi": "护士",
-  "pinyin": "hùshì",
-  "tones": "4-4",
-  "meaning": "nurse"
- },
- {
-  "hanzi": "护照",
-  "pinyin": "hùzhào",
-  "tones": "4-4",
-  "meaning": "passport"
- },
- {
-  "hanzi": "拉伸",
-  "pinyin": "lāshēn",
-  "tones": "1-1",
-  "meaning": "stretch"
- },
- {
-  "hanzi": "拖地",
-  "pinyin": "tuōdì",
-  "tones": "1-4",
-  "meaning": "mop the floor"
- },
- {
-  "hanzi": "拖把",
-  "pinyin": "tuōbǎ",
-  "tones": "1-3",
-  "meaning": "mop"
- },
- {
-  "hanzi": "挂衣服",
-  "pinyin": "guàyīfú",
-  "tones": "4-1-2",
-  "meaning": "hang up clothes"
- },
- {
-  "hanzi": "换乘",
-  "pinyin": "huànchéng",
-  "tones": "4-2",
-  "meaning": "transfer (transit)"
- },
- {
-  "hanzi": "换床单",
-  "pinyin": "huànchuángdān",
-  "tones": "4-2-1",
-  "meaning": "change bed sheets"
- },
- {
-  "hanzi": "换货",
-  "pinyin": "huànhuò",
-  "tones": "4-4",
-  "meaning": "exchange goods"
- },
- {
-  "hanzi": "摩托车",
-  "pinyin": "mótuōchē",
-  "tones": "2-1-1",
-  "meaning": "motorcycle"
- },
- {
-  "hanzi": "擦地板",
-  "pinyin": "cādìbǎn",
-  "tones": "1-4-3",
-  "meaning": "mop the floor"
- },
- {
-  "hanzi": "擦桌子",
-  "pinyin": "cāzhuōzi",
-  "tones": "1-1-0",
-  "meaning": "wipe the table"
- },
- {
-  "hanzi": "收据",
-  "pinyin": "shōujù",
-  "tones": "1-4",
-  "meaning": "receipt"
- },
- {
-  "hanzi": "收衣服",
-  "pinyin": "shōuyīfú",
-  "tones": "1-1-2",
-  "meaning": "collect clothes"
- },
- {
-  "hanzi": "教室",
-  "pinyin": "jiàoshì",
-  "tones": "4-4",
-  "meaning": "classroom"
- },
- {
-  "hanzi": "教授",
-  "pinyin": "jiàoshòu",
-  "tones": "4-4",
-  "meaning": "professor"
- },
- {
-  "hanzi": "数学",
-  "pinyin": "shùxué",
-  "tones": "4-2",
-  "meaning": "mathematics"
- },
- {
-  "hanzi": "整理房间",
-  "pinyin": "zhěnglǐfángjiān",
-  "tones": "3-3-2-1",
-  "meaning": "tidy up room"
- },
- {
-  "hanzi": "旅游",
-  "pinyin": "lǚyóu",
-  "tones": "3-2",
-  "meaning": "tourism"
- },
- {
-  "hanzi": "旅行",
-  "pinyin": "lǚxíng",
-  "tones": "3-2",
-  "meaning": "travel/trip"
- },
- {
-  "hanzi": "无聊",
-  "pinyin": "wúliáo",
-  "tones": "2-2",
-  "meaning": "bored"
- },
- {
-  "hanzi": "早上",
-  "pinyin": "zǎoshàng",
-  "tones": "3-4",
-  "meaning": "morning"
- },
- {
-  "hanzi": "明天",
-  "pinyin": "míngtiān",
-  "tones": "2-1",
-  "meaning": "tomorrow"
- },
- {
-  "hanzi": "明年",
-  "pinyin": "míngnián",
-  "tones": "2-2",
-  "meaning": "next year"
- },
- {
-  "hanzi": "星星",
-  "pinyin": "xīngxīng",
-  "tones": "1-1",
-  "meaning": "stars"
- },
- {
-  "hanzi": "春分",
-  "pinyin": "chūnfēn",
-  "tones": "1-1",
-  "meaning": "spring equinox"
- },
- {
-  "hanzi": "春天",
-  "pinyin": "chūntiān",
-  "tones": "1-1",
-  "meaning": "spring (season)"
- },
- {
-  "hanzi": "昨天",
-  "pinyin": "zuótiān",
-  "tones": "2-1",
-  "meaning": "yesterday"
- },
- {
-  "hanzi": "晚上",
-  "pinyin": "wǎnshàng",
-  "tones": "3-4",
-  "meaning": "evening/night"
- },
- {
-  "hanzi": "晴天",
-  "pinyin": "qíngtiān",
-  "tones": "2-1",
-  "meaning": "sunny day"
- },
- {
-  "hanzi": "晾衣服",
-  "pinyin": "liàngyīfú",
-  "tones": "4-1-2",
-  "meaning": "hang clothes to dry"
- },
- {
-  "hanzi": "暴风雪",
-  "pinyin": "bàofēngxuě",
-  "tones": "4-1-3",
-  "meaning": "blizzard"
- },
- {
-  "hanzi": "最后",
-  "pinyin": "zuìhòu",
-  "tones": "4-4",
-  "meaning": "finally/last"
- },
- {
-  "hanzi": "月亮",
-  "pinyin": "yuèliàng",
-  "tones": "4-4",
-  "meaning": "moon"
- },
- {
-  "hanzi": "有时候",
-  "pinyin": "yǒushíhòu",
-  "tones": "3-2-4",
-  "meaning": "sometimes"
- },
- {
-  "hanzi": "朋友",
-  "pinyin": "péngyǒu",
-  "tones": "2-3",
-  "meaning": "friend"
- },
- {
-  "hanzi": "朝霞",
-  "pinyin": "zhāoxiá",
-  "tones": "1-2",
-  "meaning": "morning glow"
- },
- {
-  "hanzi": "本月",
-  "pinyin": "běnyuè",
-  "tones": "3-4",
-  "meaning": "this month"
- },
- {
-  "hanzi": "机场",
-  "pinyin": "jīchǎng",
-  "tones": "1-3",
-  "meaning": "airport"
- },
- {
-  "hanzi": "松鼠",
-  "pinyin": "sōngshǔ",
-  "tones": "1-3",
-  "meaning": "squirrel"
- },
- {
-  "hanzi": "果汁",
-  "pinyin": "guǒzhī",
-  "tones": "3-1",
-  "meaning": "fruit juice"
- },
- {
-  "hanzi": "树木",
-  "pinyin": "shùmù",
-  "tones": "4-4",
-  "meaning": "trees"
- },
- {
-  "hanzi": "校长",
-  "pinyin": "xiàozhǎng",
-  "tones": "4-3",
-  "meaning": "school principal"
- },
- {
-  "hanzi": "桂花",
-  "pinyin": "guìhuā",
-  "tones": "4-1",
-  "meaning": "osmanthus flower"
- },
- {
-  "hanzi": "梅花",
-  "pinyin": "méihuā",
-  "tones": "2-1",
-  "meaning": "plum blossom"
- },
- {
-  "hanzi": "梅雨季节",
-  "pinyin": "méiyǔjìjié",
-  "tones": "2-3-4-2",
-  "meaning": "plum rain season"
- },
- {
-  "hanzi": "梳头",
-  "pinyin": "shūtóu",
-  "tones": "1-2",
-  "meaning": "comb hair"
- },
- {
-  "hanzi": "检票",
-  "pinyin": "jiǎnpiào",
-  "tones": "3-4",
-  "meaning": "check tickets"
- },
- {
-  "hanzi": "森林",
-  "pinyin": "sēnlín",
-  "tones": "1-2",
-  "meaning": "forest"
- },
- {
-  "hanzi": "步行",
-  "pinyin": "bùxíng",
-  "tones": "4-2",
-  "meaning": "walk/on foot"
- },
- {
-  "hanzi": "每周",
-  "pinyin": "měizhōu",
-  "tones": "3-1",
-  "meaning": "every week"
- },
- {
-  "hanzi": "每天",
-  "pinyin": "měitiān",
-  "tones": "3-1",
-  "meaning": "every day"
- },
- {
-  "hanzi": "每年",
-  "pinyin": "měinián",
-  "tones": "3-2",
-  "meaning": "every year"
- },
- {
-  "hanzi": "毕业",
-  "pinyin": "bìyè",
-  "tones": "4-4",
-  "meaning": "graduate"
- },
- {
-  "hanzi": "汤圆",
-  "pinyin": "tāngyuán",
-  "tones": "1-2",
-  "meaning": "glutinous rice balls"
- },
- {
-  "hanzi": "汽车",
-  "pinyin": "qìchē",
-  "tones": "4-1",
-  "meaning": "car/automobile"
- },
- {
-  "hanzi": "沙尘暴",
-  "pinyin": "shāchénbào",
-  "tones": "1-2-4",
-  "meaning": "sandstorm"
- },
- {
-  "hanzi": "沙漠",
-  "pinyin": "shāmò",
-  "tones": "1-4",
-  "meaning": "desert"
- },
- {
-  "hanzi": "河流",
-  "pinyin": "héliú",
-  "tones": "2-2",
-  "meaning": "river"
- },
- {
-  "hanzi": "洋葱",
-  "pinyin": "yángcōng",
-  "tones": "2-1",
-  "meaning": "onion"
- },
- {
-  "hanzi": "洗头",
-  "pinyin": "xǐtóu",
-  "tones": "3-2",
-  "meaning": "wash hair"
- },
- {
-  "hanzi": "洗手",
-  "pinyin": "xǐshǒu",
-  "tones": "3-3",
-  "meaning": "wash hands"
- },
- {
-  "hanzi": "洗手间",
-  "pinyin": "xǐshǒujiān",
-  "tones": "3-3-1",
-  "meaning": "restroom/bathroom"
- },
- {
-  "hanzi": "洗澡",
-  "pinyin": "xǐzǎo",
-  "tones": "3-3",
-  "meaning": "take a bath"
- },
- {
-  "hanzi": "洗碗",
-  "pinyin": "xǐwǎn",
-  "tones": "3-3",
-  "meaning": "wash dishes"
- },
- {
-  "hanzi": "洗脸",
-  "pinyin": "xǐliǎn",
-  "tones": "3-3",
-  "meaning": "wash face"
- },
- {
-  "hanzi": "洗衣服",
-  "pinyin": "xǐyīfú",
-  "tones": "3-1-2",
-  "meaning": "do laundry"
- },
- {
-  "hanzi": "洗衣机",
-  "pinyin": "xǐyījī",
-  "tones": "3-1-1",
-  "meaning": "washing machine"
- },
- {
-  "hanzi": "洪水",
-  "pinyin": "hóngshuǐ",
-  "tones": "2-3",
-  "meaning": "flood"
- },
- {
-  "hanzi": "海洋",
-  "pinyin": "hǎiyáng",
-  "tones": "3-2",
-  "meaning": "ocean"
- },
- {
-  "hanzi": "海鲜",
-  "pinyin": "hǎixiān",
-  "tones": "3-1",
-  "meaning": "seafood"
- },
- {
-  "hanzi": "消极",
-  "pinyin": "xiāojí",
-  "tones": "1-2",
-  "meaning": "negative/passive"
- },
- {
-  "hanzi": "深蹲",
-  "pinyin": "shēndūn",
-  "tones": "1-1",
-  "meaning": "squat (exercise)"
- },
- {
-  "hanzi": "清炒蔬菜",
-  "pinyin": "qīngchǎoshūcài",
-  "tones": "1-3-1-4",
-  "meaning": "stir-fried vegetables"
- },
- {
-  "hanzi": "温柔",
-  "pinyin": "wēnróu",
-  "tones": "1-2",
-  "meaning": "gentle/tender"
- },
- {
-  "hanzi": "游泳",
-  "pinyin": "yóuyǒng",
-  "tones": "2-3",
-  "meaning": "swimming"
- },
- {
-  "hanzi": "湖泊",
-  "pinyin": "húpō",
-  "tones": "2-1",
-  "meaning": "lake"
- },
- {
-  "hanzi": "满意",
-  "pinyin": "mǎnyì",
-  "tones": "3-4",
-  "meaning": "satisfied"
- },
- {
-  "hanzi": "火山",
-  "pinyin": "huǒshān",
-  "tones": "3-1",
-  "meaning": "volcano"
- },
- {
-  "hanzi": "火车",
-  "pinyin": "huǒchē",
-  "tones": "3-1",
-  "meaning": "train"
- },
- {
-  "hanzi": "火车站",
-  "pinyin": "huǒchēzhàn",
-  "tones": "3-1-4",
-  "meaning": "train station"
- },
- {
-  "hanzi": "火锅",
-  "pinyin": "huǒguō",
-  "tones": "3-1",
-  "meaning": "hot pot"
- },
- {
-  "hanzi": "炒菜",
-  "pinyin": "chǎocài",
-  "tones": "3-4",
-  "meaning": "stir-fry"
- },
- {
-  "hanzi": "炒鸡蛋",
-  "pinyin": "chǎojīdàn",
-  "tones": "3-1-4",
-  "meaning": "scrambled eggs"
- },
- {
-  "hanzi": "炸鸡",
-  "pinyin": "zhàjī",
-  "tones": "4-1",
-  "meaning": "fried chicken"
- },
- {
-  "hanzi": "烤鸭",
-  "pinyin": "kǎoyā",
-  "tones": "3-1",
-  "meaning": "roast duck"
- },
- {
-  "hanzi": "烦恼",
-  "pinyin": "fánnǎo",
-  "tones": "2-3",
-  "meaning": "worry/annoyance"
- },
- {
-  "hanzi": "烧烤",
-  "pinyin": "shāokǎo",
-  "tones": "1-3",
-  "meaning": "barbecue"
- },
- {
-  "hanzi": "热情",
-  "pinyin": "rèqíng",
-  "tones": "4-2",
-  "meaning": "enthusiastic/warm"
- },
- {
-  "hanzi": "热水器",
-  "pinyin": "rèshuǐqì",
-  "tones": "4-3-4",
-  "meaning": "water heater"
- },
- {
-  "hanzi": "焦虑",
-  "pinyin": "jiāolǜ",
-  "tones": "1-4",
-  "meaning": "anxiety"
- },
- {
-  "hanzi": "照镜子",
-  "pinyin": "zhàojìngzi",
-  "tones": "4-4-0",
-  "meaning": "look in mirror"
- },
- {
-  "hanzi": "煮饭",
-  "pinyin": "zhǔfàn",
-  "tones": "3-4",
-  "meaning": "cook rice"
- },
- {
-  "hanzi": "父母",
-  "pinyin": "fùmǔ",
-  "tones": "4-3",
-  "meaning": "parents"
- },
- {
-  "hanzi": "爷爷",
-  "pinyin": "yéyé",
-  "tones": "2-2",
-  "meaning": "grandfather (paternal)"
- },
- {
-  "hanzi": "爷爷奶奶",
-  "pinyin": "yéyénǎinǎi",
-  "tones": "2-2-3-3",
-  "meaning": "paternal grandparents"
- },
- {
-  "hanzi": "牙齿",
-  "pinyin": "yáchǐ",
-  "tones": "2-3",
-  "meaning": "teeth"
- },
- {
-  "hanzi": "牛奶",
-  "pinyin": "niúnǎi",
-  "tones": "2-3",
-  "meaning": "milk"
- },
- {
-  "hanzi": "牛肉面",
-  "pinyin": "niúròumiàn",
-  "tones": "2-4-4",
-  "meaning": "beef noodle soup"
- },
- {
-  "hanzi": "物美价廉",
-  "pinyin": "wùměijiàlián",
-  "tones": "4-3-4-2",
-  "meaning": "good quality low price"
- },
- {
-  "hanzi": "独生子女",
-  "pinyin": "dúshēngzǐnǚ",
-  "tones": "2-1-3-3",
-  "meaning": "only child"
- },
- {
-  "hanzi": "猪肉",
-  "pinyin": "zhūròu",
-  "tones": "1-4",
-  "meaning": "pork"
- },
- {
-  "hanzi": "现在",
-  "pinyin": "xiànzài",
-  "tones": "4-4",
-  "meaning": "now"
- },
- {
-  "hanzi": "现金",
-  "pinyin": "xiànjīn",
-  "tones": "4-1",
-  "meaning": "cash"
- },
- {
-  "hanzi": "生姜",
-  "pinyin": "shēngjiāng",
-  "tones": "1-1",
-  "meaning": "ginger"
- },
- {
-  "hanzi": "生孩子",
-  "pinyin": "shēngháizi",
-  "tones": "1-2-0",
-  "meaning": "have a baby"
- },
- {
-  "hanzi": "生意",
-  "pinyin": "shēngyì",
-  "tones": "1-4",
-  "meaning": "business"
- },
- {
-  "hanzi": "生气",
-  "pinyin": "shēngqì",
-  "tones": "1-4",
-  "meaning": "angry/upset"
- },
- {
-  "hanzi": "电视机",
-  "pinyin": "diànshìjī",
-  "tones": "4-4-1",
-  "meaning": "television"
- },
- {
-  "hanzi": "留学生",
-  "pinyin": "liúxuéshēng",
-  "tones": "2-2-1",
-  "meaning": "international student"
- },
- {
-  "hanzi": "番茄",
-  "pinyin": "fānqié",
-  "tones": "1-2",
-  "meaning": "tomato"
- },
- {
-  "hanzi": "痛苦",
-  "pinyin": "tòngkǔ",
-  "tones": "4-3",
-  "meaning": "suffering"
- },
- {
-  "hanzi": "登机",
-  "pinyin": "dēngjī",
-  "tones": "1-1",
-  "meaning": "board a plane"
- },
- {
-  "hanzi": "白菜",
-  "pinyin": "báicài",
-  "tones": "2-4",
-  "meaning": "Chinese cabbage"
- },
- {
-  "hanzi": "百货公司",
-  "pinyin": "bǎihuògōngsī",
-  "tones": "3-4-1-1",
-  "meaning": "department store"
- },
- {
-  "hanzi": "皮肤",
-  "pinyin": "pífū",
-  "tones": "2-1",
-  "meaning": "skin"
- },
- {
-  "hanzi": "盈利",
-  "pinyin": "yínglì",
-  "tones": "2-4",
-  "meaning": "profit"
- },
- {
-  "hanzi": "目的地",
-  "pinyin": "mùdìdì",
-  "tones": "4-4-4",
-  "meaning": "destination"
- },
- {
-  "hanzi": "直走",
-  "pinyin": "zhízǒu",
-  "tones": "2-3",
-  "meaning": "go straight"
- },
- {
-  "hanzi": "相互扶持",
-  "pinyin": "xiānghùfúchí",
-  "tones": "1-4-2-2",
-  "meaning": "support each other"
- },
- {
-  "hanzi": "看书",
-  "pinyin": "kànshū",
-  "tones": "4-1",
-  "meaning": "read a book"
- },
- {
-  "hanzi": "看电视",
-  "pinyin": "kàndiànshì",
-  "tones": "4-4-4",
-  "meaning": "watch TV"
- },
- {
-  "hanzi": "眼睛",
-  "pinyin": "yǎnjīng",
-  "tones": "3-1",
-  "meaning": "eyes"
- },
- {
-  "hanzi": "矿泉水",
-  "pinyin": "kuàngquánshuǐ",
-  "tones": "4-2-3",
-  "meaning": "mineral water"
- },
- {
-  "hanzi": "码头",
-  "pinyin": "mǎtóu",
-  "tones": "3-2",
-  "meaning": "dock/wharf"
- },
- {
-  "hanzi": "砍价",
-  "pinyin": "kǎnjià",
-  "tones": "3-4",
-  "meaning": "bargain/haggle"
- },
- {
-  "hanzi": "研究生",
-  "pinyin": "yánjiūshēng",
-  "tones": "2-1-1",
-  "meaning": "graduate student"
- },
- {
-  "hanzi": "硕士",
-  "pinyin": "shuòshì",
-  "tones": "4-4",
-  "meaning": "master's degree"
- },
- {
-  "hanzi": "神经",
-  "pinyin": "shénjīng",
-  "tones": "2-1",
-  "meaning": "nerve"
- },
- {
-  "hanzi": "秋分",
-  "pinyin": "qiūfēn",
-  "tones": "1-1",
-  "meaning": "autumn equinox"
- },
- {
-  "hanzi": "秋天",
-  "pinyin": "qiūtiān",
-  "tones": "1-1",
+  "hanzi": "秋",
+  "pinyin": "qiū",
+  "tones": "1",
   "meaning": "autumn"
  },
  {
-  "hanzi": "科学",
-  "pinyin": "kēxué",
-  "tones": "1-2",
-  "meaning": "science"
+  "hanzi": "七",
+  "pinyin": "qī",
+  "tones": "1",
+  "meaning": "seven"
  },
  {
-  "hanzi": "积极",
-  "pinyin": "jījí",
-  "tones": "1-2",
-  "meaning": "positive/active"
+  "hanzi": "轻",
+  "pinyin": "qīng",
+  "tones": "1",
+  "meaning": "light (weight)"
  },
  {
-  "hanzi": "空调",
-  "pinyin": "kōngtiáo",
-  "tones": "1-2",
-  "meaning": "air conditioning"
+  "hanzi": "说",
+  "pinyin": "shuō",
+  "tones": "1",
+  "meaning": "to say"
  },
  {
-  "hanzi": "穿衣服",
-  "pinyin": "chuānyīfú",
-  "tones": "1-1-2",
-  "meaning": "get dressed"
+  "hanzi": "山",
+  "pinyin": "shān",
+  "tones": "1",
+  "meaning": "mountain"
  },
  {
-  "hanzi": "立刻",
-  "pinyin": "lìkè",
-  "tones": "4-4",
-  "meaning": "immediately"
- },
- {
-  "hanzi": "竹林",
-  "pinyin": "zhúlín",
-  "tones": "2-2",
-  "meaning": "bamboo grove"
- },
- {
-  "hanzi": "笔记本",
-  "pinyin": "bǐjìběn",
-  "tones": "3-4-3",
-  "meaning": "notebook"
- },
- {
-  "hanzi": "第一",
-  "pinyin": "dìyī",
-  "tones": "4-1",
-  "meaning": "first"
- },
- {
-  "hanzi": "第二",
-  "pinyin": "dìèr",
-  "tones": "4-4",
-  "meaning": "second"
- },
- {
-  "hanzi": "签合同",
-  "pinyin": "qiānhétóng",
-  "tones": "1-2-2",
-  "meaning": "sign a contract"
- },
- {
-  "hanzi": "签证",
-  "pinyin": "qiānzhèng",
-  "tones": "1-4",
-  "meaning": "visa"
- },
- {
-  "hanzi": "米饭",
-  "pinyin": "mǐfàn",
-  "tones": "3-4",
-  "meaning": "rice"
- },
- {
-  "hanzi": "粉笔",
-  "pinyin": "fěnbǐ",
-  "tones": "3-3",
-  "meaning": "chalk"
- },
- {
-  "hanzi": "粗心",
-  "pinyin": "cūxīn",
-  "tones": "1-1",
-  "meaning": "careless"
- },
- {
-  "hanzi": "糖尿病",
-  "pinyin": "tángniàobìng",
-  "tones": "2-4-4",
-  "meaning": "diabetes"
- },
- {
-  "hanzi": "糖醋鱼",
-  "pinyin": "tángcùyú",
-  "tones": "2-4-2",
-  "meaning": "sweet and sour fish"
- },
- {
-  "hanzi": "紧张",
-  "pinyin": "jǐnzhāng",
-  "tones": "3-1",
-  "meaning": "nervous/tense"
- },
- {
-  "hanzi": "红烧肉",
-  "pinyin": "hóngshāoròu",
-  "tones": "2-1-4",
-  "meaning": "braised pork belly"
- },
- {
-  "hanzi": "红绿灯",
-  "pinyin": "hónglǜdēng",
-  "tones": "2-4-1",
-  "meaning": "traffic light"
- },
- {
-  "hanzi": "红酒",
-  "pinyin": "hóngjiǔ",
-  "tones": "2-3",
-  "meaning": "red wine"
- },
- {
-  "hanzi": "细心",
-  "pinyin": "xìxīn",
-  "tones": "4-1",
-  "meaning": "attentive/careful"
- },
- {
-  "hanzi": "经常",
-  "pinyin": "jīngcháng",
-  "tones": "1-2",
-  "meaning": "often"
- },
- {
-  "hanzi": "经理",
-  "pinyin": "jīnglǐ",
-  "tones": "1-3",
-  "meaning": "manager"
- },
- {
-  "hanzi": "经销商",
-  "pinyin": "jīngxiāoshāng",
-  "tones": "1-1-1",
-  "meaning": "distributor/dealer"
- },
- {
-  "hanzi": "结婚典礼",
-  "pinyin": "jiéhūndiǎnlǐ",
-  "tones": "2-1-3-3",
-  "meaning": "wedding ceremony"
- },
- {
-  "hanzi": "绿叶",
-  "pinyin": "lǜyè",
-  "tones": "4-4",
-  "meaning": "green leaves"
- },
- {
-  "hanzi": "绿茶",
-  "pinyin": "lǜchá",
-  "tones": "4-2",
-  "meaning": "green tea"
- },
- {
-  "hanzi": "缺货",
-  "pinyin": "quēhuò",
-  "tones": "1-4",
-  "meaning": "out of stock"
- },
- {
-  "hanzi": "网购",
-  "pinyin": "wǎnggòu",
-  "tones": "3-4",
-  "meaning": "online shopping"
- },
- {
-  "hanzi": "羊肉",
-  "pinyin": "yángròu",
-  "tones": "2-4",
-  "meaning": "lamb/mutton"
- },
- {
-  "hanzi": "羡慕",
-  "pinyin": "xiànmù",
-  "tones": "4-4",
-  "meaning": "envy/admire"
- },
- {
-  "hanzi": "老师",
-  "pinyin": "lǎoshī",
-  "tones": "3-1",
-  "meaning": "teacher"
- },
- {
-  "hanzi": "老板",
-  "pinyin": "lǎobǎn",
-  "tones": "3-3",
-  "meaning": "boss"
- },
- {
-  "hanzi": "考试",
-  "pinyin": "kǎoshì",
-  "tones": "3-4",
-  "meaning": "exam/test"
- },
- {
-  "hanzi": "耐心",
-  "pinyin": "nàixīn",
-  "tones": "4-1",
-  "meaning": "patience"
- },
- {
-  "hanzi": "耳朵",
-  "pinyin": "ěrduǒ",
-  "tones": "3-3",
-  "meaning": "ear"
- },
- {
-  "hanzi": "职业",
-  "pinyin": "zhíyè",
-  "tones": "2-4",
-  "meaning": "occupation/career"
- },
- {
-  "hanzi": "肌肉",
-  "pinyin": "jīròu",
-  "tones": "1-4",
-  "meaning": "muscle"
- },
- {
-  "hanzi": "肝脏",
-  "pinyin": "gānzàng",
-  "tones": "1-4",
-  "meaning": "liver"
- },
- {
-  "hanzi": "肩膀",
-  "pinyin": "jiānbǎng",
-  "tones": "1-3",
-  "meaning": "shoulder"
- },
- {
-  "hanzi": "肺部",
-  "pinyin": "fèibù",
-  "tones": "4-4",
-  "meaning": "lungs"
- },
- {
-  "hanzi": "肾脏",
-  "pinyin": "shènzàng",
-  "tones": "4-4",
-  "meaning": "kidney"
- },
- {
-  "hanzi": "胃部",
-  "pinyin": "wèibù",
-  "tones": "4-4",
-  "meaning": "stomach"
- },
- {
-  "hanzi": "背部",
-  "pinyin": "bèibù",
-  "tones": "4-4",
-  "meaning": "back"
- },
- {
-  "hanzi": "胸口",
-  "pinyin": "xiōngkǒu",
-  "tones": "1-3",
-  "meaning": "chest"
- },
- {
-  "hanzi": "脖子",
-  "pinyin": "bózi",
-  "tones": "2-0",
-  "meaning": "neck"
- },
- {
-  "hanzi": "脚趾",
-  "pinyin": "jiǎozhǐ",
-  "tones": "3-3",
-  "meaning": "toes"
- },
- {
-  "hanzi": "脚踝",
-  "pinyin": "jiǎohuái",
-  "tones": "3-2",
-  "meaning": "ankle"
- },
- {
-  "hanzi": "腰部",
-  "pinyin": "yāobù",
-  "tones": "1-4",
-  "meaning": "waist"
- },
- {
-  "hanzi": "腹泻",
-  "pinyin": "fùxiè",
-  "tones": "4-4",
-  "meaning": "diarrhea"
- },
- {
-  "hanzi": "腹部",
-  "pinyin": "fùbù",
-  "tones": "4-4",
-  "meaning": "abdomen"
- },
- {
-  "hanzi": "膝盖",
-  "pinyin": "xīgài",
-  "tones": "1-4",
-  "meaning": "knee"
- },
- {
-  "hanzi": "自信",
-  "pinyin": "zìxìn",
-  "tones": "4-4",
-  "meaning": "self-confident"
- },
- {
-  "hanzi": "自行车",
-  "pinyin": "zìxíngchē",
-  "tones": "4-2-1",
-  "meaning": "bicycle"
- },
- {
-  "hanzi": "舅舅",
-  "pinyin": "jiùjiù",
-  "tones": "4-4",
-  "meaning": "maternal uncle"
- },
- {
-  "hanzi": "花开",
-  "pinyin": "huākāi",
-  "tones": "1-1",
-  "meaning": "flowers bloom"
- },
- {
-  "hanzi": "花生油",
-  "pinyin": "huāshēngyóu",
-  "tones": "1-1-2",
-  "meaning": "peanut oil"
- },
- {
-  "hanzi": "花茶",
-  "pinyin": "huāchá",
-  "tones": "1-2",
-  "meaning": "flower tea"
- },
- {
-  "hanzi": "英语",
-  "pinyin": "yīngyǔ",
-  "tones": "1-3",
-  "meaning": "English language"
- },
- {
-  "hanzi": "草地",
-  "pinyin": "cǎodì",
-  "tones": "3-4",
-  "meaning": "grassland"
- },
- {
-  "hanzi": "荷花",
-  "pinyin": "héhuā",
-  "tones": "2-1",
-  "meaning": "lotus flower"
- },
- {
-  "hanzi": "菊花",
-  "pinyin": "júhuā",
-  "tones": "2-1",
-  "meaning": "chrysanthemum"
- },
- {
-  "hanzi": "营业员",
-  "pinyin": "yíngyèyuán",
-  "tones": "2-4-2",
-  "meaning": "salesperson"
- },
- {
-  "hanzi": "落叶",
-  "pinyin": "luòyè",
-  "tones": "4-4",
-  "meaning": "fallen leaves"
- },
- {
-  "hanzi": "蒸鱼",
-  "pinyin": "zhēngyú",
-  "tones": "1-2",
-  "meaning": "steamed fish"
- },
- {
-  "hanzi": "虚伪",
-  "pinyin": "xūwěi",
-  "tones": "1-3",
-  "meaning": "hypocritical"
- },
- {
-  "hanzi": "虾仁",
-  "pinyin": "xiārén",
-  "tones": "1-2",
-  "meaning": "shelled shrimp"
- },
- {
-  "hanzi": "蚯蚓",
-  "pinyin": "qiūyǐn",
-  "tones": "1-3",
-  "meaning": "earthworm"
- },
- {
-  "hanzi": "蜜蜂",
-  "pinyin": "mìfēng",
-  "tones": "4-1",
-  "meaning": "honeybee"
- },
- {
-  "hanzi": "蝴蝶",
-  "pinyin": "húdié",
-  "tones": "2-2",
-  "meaning": "butterfly"
- },
- {
-  "hanzi": "螃蟹",
-  "pinyin": "pángxiè",
-  "tones": "2-4",
-  "meaning": "crab"
- },
- {
-  "hanzi": "融雪",
-  "pinyin": "róngxuě",
-  "tones": "2-3",
-  "meaning": "melting snow"
- },
- {
-  "hanzi": "血浓于水",
-  "pinyin": "xuènóngyúshuǐ",
-  "tones": "4-2-2-3",
-  "meaning": "blood is thicker than water"
- },
- {
-  "hanzi": "血管",
-  "pinyin": "xuèguǎn",
-  "tones": "4-3",
-  "meaning": "blood vessel"
- },
- {
-  "hanzi": "行李",
-  "pinyin": "xínglǐ",
-  "tones": "2-3",
-  "meaning": "luggage"
- },
- {
-  "hanzi": "补货",
-  "pinyin": "bǔhuò",
-  "tones": "3-4",
-  "meaning": "restock goods"
- },
- {
-  "hanzi": "表兄弟",
-  "pinyin": "biǎoxiōngdì",
-  "tones": "3-1-4",
-  "meaning": "male cousins"
- },
- {
-  "hanzi": "表哥",
-  "pinyin": "biǎogē",
-  "tones": "3-1",
-  "meaning": "older male cousin"
- },
- {
-  "hanzi": "订货",
-  "pinyin": "dìnghuò",
-  "tones": "4-4",
-  "meaning": "order goods"
- },
- {
-  "hanzi": "认识朋友",
-  "pinyin": "rènshípéngyǒu",
-  "tones": "4-2-2-3",
-  "meaning": "meet new friends"
- },
- {
-  "hanzi": "讨价还价",
-  "pinyin": "tǎojiàhuánjià",
-  "tones": "3-4-2-4",
-  "meaning": "haggle over price"
- },
- {
-  "hanzi": "诚实",
-  "pinyin": "chéngshí",
-  "tones": "2-2",
-  "meaning": "honest"
- },
- {
-  "hanzi": "语文",
-  "pinyin": "yǔwén",
-  "tones": "3-2",
-  "meaning": "Chinese language arts"
- },
- {
-  "hanzi": "课本",
-  "pinyin": "kèběn",
-  "tones": "4-3",
-  "meaning": "textbook"
- },
- {
-  "hanzi": "谦虚",
-  "pinyin": "qiānxū",
-  "tones": "1-1",
-  "meaning": "humble/modest"
- },
- {
-  "hanzi": "豆浆",
-  "pinyin": "dòujiāng",
-  "tones": "4-1",
-  "meaning": "soy milk"
- },
- {
-  "hanzi": "豆腐",
-  "pinyin": "dòufǔ",
-  "tones": "4-3",
-  "meaning": "tofu"
- },
- {
-  "hanzi": "贪心",
-  "pinyin": "tānxīn",
-  "tones": "1-1",
-  "meaning": "greedy"
- },
- {
-  "hanzi": "购物车",
-  "pinyin": "gòuwùchē",
-  "tones": "4-4-1",
-  "meaning": "shopping cart"
- },
- {
-  "hanzi": "走亲戚",
-  "pinyin": "zǒuqīnqī",
-  "tones": "3-1-1",
-  "meaning": "visit relatives"
- },
- {
-  "hanzi": "起床",
-  "pinyin": "qǐchuáng",
-  "tones": "3-2",
-  "meaning": "get up/wake up"
- },
- {
-  "hanzi": "超市",
-  "pinyin": "chāoshì",
-  "tones": "1-4",
-  "meaning": "supermarket"
- },
- {
-  "hanzi": "跑步",
-  "pinyin": "pǎobù",
-  "tones": "3-4",
-  "meaning": "running/jogging"
- },
- {
-  "hanzi": "距离",
-  "pinyin": "jùlí",
-  "tones": "4-2",
-  "meaning": "distance"
- },
- {
-  "hanzi": "路口",
-  "pinyin": "lùkǒu",
-  "tones": "4-3",
-  "meaning": "intersection"
- },
- {
-  "hanzi": "身体",
-  "pinyin": "shēntǐ",
-  "tones": "1-3",
+  "hanzi": "身",
+  "pinyin": "shēn",
+  "tones": "1",
   "meaning": "body"
  },
  {
-  "hanzi": "轮船",
-  "pinyin": "lúnchuán",
-  "tones": "2-2",
-  "meaning": "steamship"
+  "hanzi": "深",
+  "pinyin": "shēn",
+  "tones": "1",
+  "meaning": "deep"
  },
  {
-  "hanzi": "软弱",
-  "pinyin": "ruǎnruò",
-  "tones": "3-4",
-  "meaning": "weak"
+  "hanzi": "生",
+  "pinyin": "shēng",
+  "tones": "1",
+  "meaning": "to be born; raw"
  },
  {
-  "hanzi": "轻松",
-  "pinyin": "qīngsōng",
-  "tones": "1-1",
-  "meaning": "relaxed/easy"
+  "hanzi": "书",
+  "pinyin": "shū",
+  "tones": "1",
+  "meaning": "book"
  },
  {
-  "hanzi": "辣椒",
-  "pinyin": "làjiāo",
-  "tones": "4-1",
-  "meaning": "chili pepper"
+  "hanzi": "酸",
+  "pinyin": "suān",
+  "tones": "1",
+  "meaning": "sour"
  },
  {
-  "hanzi": "过敏",
-  "pinyin": "guòmǐn",
-  "tones": "4-3",
-  "meaning": "allergy"
+  "hanzi": "三",
+  "pinyin": "sān",
+  "tones": "1",
+  "meaning": "three"
  },
  {
-  "hanzi": "运动",
-  "pinyin": "yùndòng",
-  "tones": "4-4",
-  "meaning": "exercise/sports"
+  "hanzi": "天",
+  "pinyin": "tiān",
+  "tones": "1",
+  "meaning": "day; sky"
  },
  {
-  "hanzi": "近视眼",
-  "pinyin": "jìnshìyǎn",
-  "tones": "4-4-3",
-  "meaning": "nearsightedness"
+  "hanzi": "他",
+  "pinyin": "tā",
+  "tones": "1",
+  "meaning": "he; him"
  },
  {
-  "hanzi": "还没",
-  "pinyin": "háiméi",
-  "tones": "2-2",
-  "meaning": "not yet"
+  "hanzi": "汤",
+  "pinyin": "tāng",
+  "tones": "1",
+  "meaning": "soup"
  },
  {
-  "hanzi": "这周",
-  "pinyin": "zhèzhōu",
-  "tones": "4-1",
-  "meaning": "this week"
+  "hanzi": "听",
+  "pinyin": "tīng",
+  "tones": "1",
+  "meaning": "to listen"
  },
  {
-  "hanzi": "进口货",
-  "pinyin": "jìnkǒuhuò",
-  "tones": "4-3-4",
-  "meaning": "imported goods"
+  "hanzi": "西",
+  "pinyin": "xī",
+  "tones": "1",
+  "meaning": "west"
  },
  {
-  "hanzi": "迷茫",
-  "pinyin": "mímáng",
-  "tones": "2-2",
-  "meaning": "confused/lost"
+  "hanzi": "心",
+  "pinyin": "xīn",
+  "tones": "1",
+  "meaning": "heart; mind"
  },
  {
-  "hanzi": "退款",
-  "pinyin": "tuìkuǎn",
-  "tones": "4-3",
-  "meaning": "refund"
+  "hanzi": "新",
+  "pinyin": "xīn",
+  "tones": "1",
+  "meaning": "new"
  },
  {
-  "hanzi": "退货",
-  "pinyin": "tuìhuò",
-  "tones": "4-4",
-  "meaning": "return goods"
+  "hanzi": "星",
+  "pinyin": "xīng",
+  "tones": "1",
+  "meaning": "star"
  },
  {
-  "hanzi": "邻居",
-  "pinyin": "línjū",
-  "tones": "2-1",
-  "meaning": "neighbor"
+  "hanzi": "一",
+  "pinyin": "yī",
+  "tones": "1",
+  "meaning": "one"
  },
  {
-  "hanzi": "郁闷",
-  "pinyin": "yùmèn",
-  "tones": "4-4",
-  "meaning": "depressed/gloomy"
+  "hanzi": "桌",
+  "pinyin": "zhuō",
+  "tones": "1",
+  "meaning": "table; desk"
  },
  {
-  "hanzi": "酱油",
-  "pinyin": "jiàngyóu",
-  "tones": "4-2",
-  "meaning": "soy sauce"
+  "hanzi": "真",
+  "pinyin": "zhēn",
+  "tones": "1",
+  "meaning": "real; truly"
  },
  {
-  "hanzi": "采购",
-  "pinyin": "cǎigòu",
-  "tones": "3-4",
-  "meaning": "procurement/purchasing"
+  "hanzi": "知",
+  "pinyin": "zhī",
+  "tones": "1",
+  "meaning": "to know"
  },
  {
-  "hanzi": "野花",
-  "pinyin": "yěhuā",
-  "tones": "3-1",
-  "meaning": "wildflower"
+  "hanzi": "钟",
+  "pinyin": "zhōng",
+  "tones": "1",
+  "meaning": "clock; bell"
  },
  {
-  "hanzi": "量血压",
-  "pinyin": "liángxuèyā",
-  "tones": "2-4-1",
-  "meaning": "measure blood pressure"
+  "hanzi": "猪",
+  "pinyin": "zhū",
+  "tones": "1",
+  "meaning": "pig"
  },
  {
-  "hanzi": "钢笔",
-  "pinyin": "gāngbǐ",
-  "tones": "1-3",
-  "meaning": "fountain pen"
+  "hanzi": "白",
+  "pinyin": "bái",
+  "tones": "2",
+  "meaning": "white"
  },
  {
-  "hanzi": "铅笔",
-  "pinyin": "qiānbǐ",
-  "tones": "1-3",
-  "meaning": "pencil"
+  "hanzi": "船",
+  "pinyin": "chuán",
+  "tones": "2",
+  "meaning": "boat"
  },
  {
-  "hanzi": "锁门",
-  "pinyin": "suǒmén",
-  "tones": "3-2",
-  "meaning": "lock the door"
+  "hanzi": "床",
+  "pinyin": "chuáng",
+  "tones": "2",
+  "meaning": "bed"
  },
  {
-  "hanzi": "闪电",
-  "pinyin": "shǎndiàn",
-  "tones": "3-4",
-  "meaning": "lightning"
+  "hanzi": "茶",
+  "pinyin": "chá",
+  "tones": "2",
+  "meaning": "tea"
  },
  {
-  "hanzi": "阿姨",
-  "pinyin": "āyí",
-  "tones": "1-2",
-  "meaning": "auntie"
+  "hanzi": "成",
+  "pinyin": "chéng",
+  "tones": "2",
+  "meaning": "to become"
  },
  {
-  "hanzi": "附近",
-  "pinyin": "fùjìn",
-  "tones": "4-4",
-  "meaning": "nearby"
+  "hanzi": "读",
+  "pinyin": "dú",
+  "tones": "2",
+  "meaning": "to read"
  },
  {
-  "hanzi": "难过",
-  "pinyin": "nánguò",
-  "tones": "2-4",
-  "meaning": "sad"
+  "hanzi": "房",
+  "pinyin": "fáng",
+  "tones": "2",
+  "meaning": "house; room"
  },
  {
-  "hanzi": "零售",
-  "pinyin": "língshòu",
-  "tones": "2-4",
-  "meaning": "retail"
+  "hanzi": "国",
+  "pinyin": "guó",
+  "tones": "2",
+  "meaning": "country"
  },
  {
-  "hanzi": "雾霾",
-  "pinyin": "wùmái",
-  "tones": "4-2",
-  "meaning": "smog/haze"
+  "hanzi": "黄",
+  "pinyin": "huáng",
+  "tones": "2",
+  "meaning": "yellow"
  },
  {
-  "hanzi": "青菜",
-  "pinyin": "qīngcài",
-  "tones": "1-4",
-  "meaning": "green vegetables"
+  "hanzi": "回",
+  "pinyin": "huí",
+  "tones": "2",
+  "meaning": "to return"
  },
  {
-  "hanzi": "青蛙",
-  "pinyin": "qīngwā",
-  "tones": "1-1",
-  "meaning": "frog"
+  "hanzi": "红",
+  "pinyin": "hóng",
+  "tones": "2",
+  "meaning": "red"
  },
  {
-  "hanzi": "面条",
-  "pinyin": "miàntiáo",
-  "tones": "4-2",
-  "meaning": "noodles"
+  "hanzi": "来",
+  "pinyin": "lái",
+  "tones": "2",
+  "meaning": "to come"
  },
  {
-  "hanzi": "顾客",
-  "pinyin": "gùkè",
-  "tones": "4-4",
-  "meaning": "customer"
+  "hanzi": "蓝",
+  "pinyin": "lán",
+  "tones": "2",
+  "meaning": "blue"
  },
  {
-  "hanzi": "预算",
-  "pinyin": "yùsuàn",
-  "tones": "4-4",
-  "meaning": "budget"
+  "hanzi": "龙",
+  "pinyin": "lóng",
+  "tones": "2",
+  "meaning": "dragon"
  },
  {
-  "hanzi": "飞机",
-  "pinyin": "fēijī",
-  "tones": "1-1",
-  "meaning": "airplane"
+  "hanzi": "忙",
+  "pinyin": "máng",
+  "tones": "2",
+  "meaning": "busy"
  },
  {
-  "hanzi": "飞鸟",
-  "pinyin": "fēiniǎo",
-  "tones": "1-3",
-  "meaning": "flying bird"
+  "hanzi": "门",
+  "pinyin": "mén",
+  "tones": "2",
+  "meaning": "door; gate"
  },
  {
-  "hanzi": "饺子",
-  "pinyin": "jiǎozi",
-  "tones": "3-0",
-  "meaning": "dumplings"
+  "hanzi": "明",
+  "pinyin": "míng",
+  "tones": "2",
+  "meaning": "bright"
  },
  {
-  "hanzi": "饺子汤",
-  "pinyin": "jiǎozitāng",
-  "tones": "3-0-1",
-  "meaning": "dumpling soup"
+  "hanzi": "年",
+  "pinyin": "nián",
+  "tones": "2",
+  "meaning": "year"
  },
  {
-  "hanzi": "馒头",
-  "pinyin": "mántou",
-  "tones": "2-0",
-  "meaning": "steamed bun"
+  "hanzi": "牛",
+  "pinyin": "niú",
+  "tones": "2",
+  "meaning": "cow; ox"
  },
  {
-  "hanzi": "香油",
-  "pinyin": "xiāngyóu",
-  "tones": "1-2",
-  "meaning": "sesame oil"
+  "hanzi": "拿",
+  "pinyin": "ná",
+  "tones": "2",
+  "meaning": "to take; to hold"
  },
  {
-  "hanzi": "马上",
-  "pinyin": "mǎshàng",
-  "tones": "3-4",
-  "meaning": "immediately/right away"
+  "hanzi": "难",
+  "pinyin": "nán",
+  "tones": "2",
+  "meaning": "difficult"
  },
  {
-  "hanzi": "骄傲",
-  "pinyin": "jiāoào",
-  "tones": "1-4",
-  "meaning": "arrogant/proud"
+  "hanzi": "南",
+  "pinyin": "nán",
+  "tones": "2",
+  "meaning": "south"
  },
  {
-  "hanzi": "骨折",
-  "pinyin": "gǔzhé",
-  "tones": "3-2",
-  "meaning": "bone fracture"
+  "hanzi": "平",
+  "pinyin": "píng",
+  "tones": "2",
+  "meaning": "flat; level"
  },
  {
-  "hanzi": "骨肉相连",
-  "pinyin": "gǔròuxiānglián",
-  "tones": "3-4-1-2",
-  "meaning": "flesh and blood bond"
+  "hanzi": "前",
+  "pinyin": "qián",
+  "tones": "2",
+  "meaning": "front; before"
  },
  {
-  "hanzi": "骨骼",
-  "pinyin": "gǔgé",
-  "tones": "3-2",
-  "meaning": "skeleton/bones"
+  "hanzi": "钱",
+  "pinyin": "qián",
+  "tones": "2",
+  "meaning": "money"
  },
  {
-  "hanzi": "高兴",
-  "pinyin": "gāoxìng",
-  "tones": "1-4",
-  "meaning": "happy"
+  "hanzi": "墙",
+  "pinyin": "qiáng",
+  "tones": "2",
+  "meaning": "wall"
  },
  {
-  "hanzi": "高血压",
-  "pinyin": "gāoxuèyā",
-  "tones": "1-4-1",
-  "meaning": "high blood pressure"
+  "hanzi": "桥",
+  "pinyin": "qiáo",
+  "tones": "2",
+  "meaning": "bridge"
  },
  {
-  "hanzi": "高铁",
-  "pinyin": "gāotiě",
-  "tones": "1-3",
-  "meaning": "high-speed rail"
+  "hanzi": "球",
+  "pinyin": "qiú",
+  "tones": "2",
+  "meaning": "ball"
  },
  {
-  "hanzi": "麻婆豆腐",
-  "pinyin": "mápódòufǔ",
-  "tones": "2-2-4-3",
-  "meaning": "mapo tofu"
+  "hanzi": "人",
+  "pinyin": "rén",
+  "tones": "2",
+  "meaning": "person"
  },
  {
-  "hanzi": "黄瓜",
-  "pinyin": "huángguā",
-  "tones": "2-1",
-  "meaning": "cucumber"
+  "hanzi": "蛇",
+  "pinyin": "shé",
+  "tones": "2",
+  "meaning": "snake"
  },
  {
-  "hanzi": "黑板",
-  "pinyin": "hēibǎn",
-  "tones": "1-3",
-  "meaning": "blackboard"
+  "hanzi": "十",
+  "pinyin": "shí",
+  "tones": "2",
+  "meaning": "ten"
  },
  {
-  "hanzi": "鼻子",
-  "pinyin": "bízi",
-  "tones": "2-0",
-  "meaning": "nose"
+  "hanzi": "石",
+  "pinyin": "shí",
+  "tones": "2",
+  "meaning": "stone"
+ },
+ {
+  "hanzi": "甜",
+  "pinyin": "tián",
+  "tones": "2",
+  "meaning": "sweet"
+ },
+ {
+  "hanzi": "糖",
+  "pinyin": "táng",
+  "tones": "2",
+  "meaning": "sugar"
+ },
+ {
+  "hanzi": "同",
+  "pinyin": "tóng",
+  "tones": "2",
+  "meaning": "same"
+ },
+ {
+  "hanzi": "头",
+  "pinyin": "tóu",
+  "tones": "2",
+  "meaning": "head"
+ },
+ {
+  "hanzi": "王",
+  "pinyin": "wáng",
+  "tones": "2",
+  "meaning": "king; (surname)"
+ },
+ {
+  "hanzi": "学",
+  "pinyin": "xué",
+  "tones": "2",
+  "meaning": "to study"
+ },
+ {
+  "hanzi": "牙",
+  "pinyin": "yá",
+  "tones": "2",
+  "meaning": "tooth"
+ },
+ {
+  "hanzi": "盐",
+  "pinyin": "yán",
+  "tones": "2",
+  "meaning": "salt"
+ },
+ {
+  "hanzi": "羊",
+  "pinyin": "yáng",
+  "tones": "2",
+  "meaning": "sheep"
+ },
+ {
+  "hanzi": "油",
+  "pinyin": "yóu",
+  "tones": "2",
+  "meaning": "oil"
+ },
+ {
+  "hanzi": "鱼",
+  "pinyin": "yú",
+  "tones": "2",
+  "meaning": "fish"
+ },
+ {
+  "hanzi": "云",
+  "pinyin": "yún",
+  "tones": "2",
+  "meaning": "cloud"
+ },
+ {
+  "hanzi": "直",
+  "pinyin": "zhí",
+  "tones": "2",
+  "meaning": "straight"
+ },
+ {
+  "hanzi": "北",
+  "pinyin": "běi",
+  "tones": "3",
+  "meaning": "north"
+ },
+ {
+  "hanzi": "百",
+  "pinyin": "bǎi",
+  "tones": "3",
+  "meaning": "hundred"
+ },
+ {
+  "hanzi": "笔",
+  "pinyin": "bǐ",
+  "tones": "3",
+  "meaning": "pen"
+ },
+ {
+  "hanzi": "草",
+  "pinyin": "cǎo",
+  "tones": "3",
+  "meaning": "grass"
+ },
+ {
+  "hanzi": "短",
+  "pinyin": "duǎn",
+  "tones": "3",
+  "meaning": "short"
+ },
+ {
+  "hanzi": "等",
+  "pinyin": "děng",
+  "tones": "3",
+  "meaning": "to wait"
+ },
+ {
+  "hanzi": "打",
+  "pinyin": "dǎ",
+  "tones": "3",
+  "meaning": "to hit; to play"
+ },
+ {
+  "hanzi": "果",
+  "pinyin": "guǒ",
+  "tones": "3",
+  "meaning": "fruit"
+ },
+ {
+  "hanzi": "给",
+  "pinyin": "gěi",
+  "tones": "3",
+  "meaning": "to give"
+ },
+ {
+  "hanzi": "火",
+  "pinyin": "huǒ",
+  "tones": "3",
+  "meaning": "fire"
+ },
+ {
+  "hanzi": "海",
+  "pinyin": "hǎi",
+  "tones": "3",
+  "meaning": "sea; ocean"
+ },
+ {
+  "hanzi": "好",
+  "pinyin": "hǎo",
+  "tones": "3",
+  "meaning": "good"
+ },
+ {
+  "hanzi": "虎",
+  "pinyin": "hǔ",
+  "tones": "3",
+  "meaning": "tiger"
+ },
+ {
+  "hanzi": "姐",
+  "pinyin": "jiě",
+  "tones": "3",
+  "meaning": "older sister"
+ },
+ {
+  "hanzi": "酒",
+  "pinyin": "jiǔ",
+  "tones": "3",
+  "meaning": "alcohol; wine"
+ },
+ {
+  "hanzi": "口",
+  "pinyin": "kǒu",
+  "tones": "3",
+  "meaning": "mouth"
+ },
+ {
+  "hanzi": "苦",
+  "pinyin": "kǔ",
+  "tones": "3",
+  "meaning": "bitter"
+ },
+ {
+  "hanzi": "脸",
+  "pinyin": "liǎn",
+  "tones": "3",
+  "meaning": "face"
+ },
+ {
+  "hanzi": "两",
+  "pinyin": "liǎng",
+  "tones": "3",
+  "meaning": "two (of something)"
+ },
+ {
+  "hanzi": "冷",
+  "pinyin": "lěng",
+  "tones": "3",
+  "meaning": "cold"
+ },
+ {
+  "hanzi": "老",
+  "pinyin": "lǎo",
+  "tones": "3",
+  "meaning": "old"
+ },
+ {
+  "hanzi": "里",
+  "pinyin": "lǐ",
+  "tones": "3",
+  "meaning": "inside"
+ },
+ {
+  "hanzi": "马",
+  "pinyin": "mǎ",
+  "tones": "3",
+  "meaning": "horse"
+ },
+ {
+  "hanzi": "买",
+  "pinyin": "mǎi",
+  "tones": "3",
+  "meaning": "to buy"
+ },
+ {
+  "hanzi": "满",
+  "pinyin": "mǎn",
+  "tones": "3",
+  "meaning": "full"
+ },
+ {
+  "hanzi": "米",
+  "pinyin": "mǐ",
+  "tones": "3",
+  "meaning": "rice"
+ },
+ {
+  "hanzi": "鸟",
+  "pinyin": "niǎo",
+  "tones": "3",
+  "meaning": "bird"
+ },
+ {
+  "hanzi": "奶",
+  "pinyin": "nǎi",
+  "tones": "3",
+  "meaning": "milk"
+ },
+ {
+  "hanzi": "你",
+  "pinyin": "nǐ",
+  "tones": "3",
+  "meaning": "you"
+ },
+ {
+  "hanzi": "女",
+  "pinyin": "nǚ",
+  "tones": "3",
+  "meaning": "female; woman"
+ },
+ {
+  "hanzi": "跑",
+  "pinyin": "pǎo",
+  "tones": "3",
+  "meaning": "to run"
+ },
+ {
+  "hanzi": "请",
+  "pinyin": "qǐng",
+  "tones": "3",
+  "meaning": "please; to invite"
+ },
+ {
+  "hanzi": "水",
+  "pinyin": "shuǐ",
+  "tones": "3",
+  "meaning": "water"
+ },
+ {
+  "hanzi": "少",
+  "pinyin": "shǎo",
+  "tones": "3",
+  "meaning": "few"
+ },
+ {
+  "hanzi": "手",
+  "pinyin": "shǒu",
+  "tones": "3",
+  "meaning": "hand"
+ },
+ {
+  "hanzi": "死",
+  "pinyin": "sǐ",
+  "tones": "3",
+  "meaning": "to die; death"
+ },
+ {
+  "hanzi": "晚",
+  "pinyin": "wǎn",
+  "tones": "3",
+  "meaning": "late"
+ },
+ {
+  "hanzi": "我",
+  "pinyin": "wǒ",
+  "tones": "3",
+  "meaning": "I; me"
+ },
+ {
+  "hanzi": "写",
+  "pinyin": "xiě",
+  "tones": "3",
+  "meaning": "to write"
+ },
+ {
+  "hanzi": "想",
+  "pinyin": "xiǎng",
+  "tones": "3",
+  "meaning": "to think; to miss"
+ },
+ {
+  "hanzi": "小",
+  "pinyin": "xiǎo",
+  "tones": "3",
+  "meaning": "small"
+ },
+ {
+  "hanzi": "雪",
+  "pinyin": "xuě",
+  "tones": "3",
+  "meaning": "snow"
+ },
+ {
+  "hanzi": "洗",
+  "pinyin": "xǐ",
+  "tones": "3",
+  "meaning": "to wash"
+ },
+ {
+  "hanzi": "远",
+  "pinyin": "yuǎn",
+  "tones": "3",
+  "meaning": "far"
+ },
+ {
+  "hanzi": "眼",
+  "pinyin": "yǎn",
+  "tones": "3",
+  "meaning": "eye"
+ },
+ {
+  "hanzi": "椅",
+  "pinyin": "yǐ",
+  "tones": "3",
+  "meaning": "chair"
+ },
+ {
+  "hanzi": "有",
+  "pinyin": "yǒu",
+  "tones": "3",
+  "meaning": "to have"
+ },
+ {
+  "hanzi": "雨",
+  "pinyin": "yǔ",
+  "tones": "3",
+  "meaning": "rain"
+ },
+ {
+  "hanzi": "长",
+  "pinyin": "zhǎng",
+  "tones": "3",
+  "meaning": "long"
+ },
+ {
+  "hanzi": "找",
+  "pinyin": "zhǎo",
+  "tones": "3",
+  "meaning": "to look for"
+ },
+ {
+  "hanzi": "纸",
+  "pinyin": "zhǐ",
+  "tones": "3",
+  "meaning": "paper"
+ },
+ {
+  "hanzi": "左",
+  "pinyin": "zuǒ",
+  "tones": "3",
+  "meaning": "left"
+ },
+ {
+  "hanzi": "早",
+  "pinyin": "zǎo",
+  "tones": "3",
+  "meaning": "early"
+ },
+ {
+  "hanzi": "走",
+  "pinyin": "zǒu",
+  "tones": "3",
+  "meaning": "to walk; to leave"
+ },
+ {
+  "hanzi": "耳",
+  "pinyin": "ěr",
+  "tones": "3",
+  "meaning": "ear"
+ },
+ {
+  "hanzi": "半",
+  "pinyin": "bàn",
+  "tones": "4",
+  "meaning": "half"
+ },
+ {
+  "hanzi": "病",
+  "pinyin": "bìng",
+  "tones": "4",
+  "meaning": "illness; sick"
+ },
+ {
+  "hanzi": "不",
+  "pinyin": "bù",
+  "tones": "4",
+  "meaning": "not"
+ },
+ {
+  "hanzi": "唱",
+  "pinyin": "chàng",
+  "tones": "4",
+  "meaning": "to sing"
+ },
+ {
+  "hanzi": "错",
+  "pinyin": "cuò",
+  "tones": "4",
+  "meaning": "wrong; mistake"
+ },
+ {
+  "hanzi": "菜",
+  "pinyin": "cài",
+  "tones": "4",
+  "meaning": "vegetable; dish"
+ },
+ {
+  "hanzi": "电",
+  "pinyin": "diàn",
+  "tones": "4",
+  "meaning": "electric; electricity"
+ },
+ {
+  "hanzi": "对",
+  "pinyin": "duì",
+  "tones": "4",
+  "meaning": "correct; right"
+ },
+ {
+  "hanzi": "大",
+  "pinyin": "dà",
+  "tones": "4",
+  "meaning": "big"
+ },
+ {
+  "hanzi": "带",
+  "pinyin": "dài",
+  "tones": "4",
+  "meaning": "to carry; to bring"
+ },
+ {
+  "hanzi": "蛋",
+  "pinyin": "dàn",
+  "tones": "4",
+  "meaning": "egg"
+ },
+ {
+  "hanzi": "到",
+  "pinyin": "dào",
+  "tones": "4",
+  "meaning": "to arrive"
+ },
+ {
+  "hanzi": "地",
+  "pinyin": "dì",
+  "tones": "4",
+  "meaning": "ground; earth"
+ },
+ {
+  "hanzi": "饭",
+  "pinyin": "fàn",
+  "tones": "4",
+  "meaning": "rice; meal"
+ },
+ {
+  "hanzi": "画",
+  "pinyin": "huà",
+  "tones": "4",
+  "meaning": "to draw; painting"
+ },
+ {
+  "hanzi": "话",
+  "pinyin": "huà",
+  "tones": "4",
+  "meaning": "speech; words"
+ },
+ {
+  "hanzi": "会",
+  "pinyin": "huì",
+  "tones": "4",
+  "meaning": "will; can"
+ },
+ {
+  "hanzi": "后",
+  "pinyin": "hòu",
+  "tones": "4",
+  "meaning": "after; behind"
+ },
+ {
+  "hanzi": "见",
+  "pinyin": "jiàn",
+  "tones": "4",
+  "meaning": "to see; to meet"
+ },
+ {
+  "hanzi": "叫",
+  "pinyin": "jiào",
+  "tones": "4",
+  "meaning": "to call; to be called"
+ },
+ {
+  "hanzi": "教",
+  "pinyin": "jiào",
+  "tones": "4",
+  "meaning": "to teach"
+ },
+ {
+  "hanzi": "借",
+  "pinyin": "jiè",
+  "tones": "4",
+  "meaning": "to borrow; to lend"
+ },
+ {
+  "hanzi": "近",
+  "pinyin": "jìn",
+  "tones": "4",
+  "meaning": "near; close"
+ },
+ {
+  "hanzi": "快",
+  "pinyin": "kuài",
+  "tones": "4",
+  "meaning": "fast"
+ },
+ {
+  "hanzi": "看",
+  "pinyin": "kàn",
+  "tones": "4",
+  "meaning": "to look; to see"
+ },
+ {
+  "hanzi": "力",
+  "pinyin": "lì",
+  "tones": "4",
+  "meaning": "strength; power"
+ },
+ {
+  "hanzi": "路",
+  "pinyin": "lù",
+  "tones": "4",
+  "meaning": "road"
+ },
+ {
+  "hanzi": "绿",
+  "pinyin": "lǜ",
+  "tones": "4",
+  "meaning": "green"
+ },
+ {
+  "hanzi": "卖",
+  "pinyin": "mài",
+  "tones": "4",
+  "meaning": "to sell"
+ },
+ {
+  "hanzi": "慢",
+  "pinyin": "màn",
+  "tones": "4",
+  "meaning": "slow"
+ },
+ {
+  "hanzi": "胖",
+  "pinyin": "pàng",
+  "tones": "4",
+  "meaning": "fat"
+ },
+ {
+  "hanzi": "去",
+  "pinyin": "qù",
+  "tones": "4",
+  "meaning": "to go"
+ },
+ {
+  "hanzi": "热",
+  "pinyin": "rè",
+  "tones": "4",
+  "meaning": "hot"
+ },
+ {
+  "hanzi": "日",
+  "pinyin": "rì",
+  "tones": "4",
+  "meaning": "day; sun"
+ },
+ {
+  "hanzi": "肉",
+  "pinyin": "ròu",
+  "tones": "4",
+  "meaning": "meat"
+ },
+ {
+  "hanzi": "睡",
+  "pinyin": "shuì",
+  "tones": "4",
+  "meaning": "to sleep"
+ },
+ {
+  "hanzi": "上",
+  "pinyin": "shàng",
+  "tones": "4",
+  "meaning": "up; above"
+ },
+ {
+  "hanzi": "是",
+  "pinyin": "shì",
+  "tones": "4",
+  "meaning": "to be"
+ },
+ {
+  "hanzi": "事",
+  "pinyin": "shì",
+  "tones": "4",
+  "meaning": "matter; thing"
+ },
+ {
+  "hanzi": "树",
+  "pinyin": "shù",
+  "tones": "4",
+  "meaning": "tree"
+ },
+ {
+  "hanzi": "四",
+  "pinyin": "sì",
+  "tones": "4",
+  "meaning": "four"
+ },
+ {
+  "hanzi": "送",
+  "pinyin": "sòng",
+  "tones": "4",
+  "meaning": "to send; to give (gift)"
+ },
+ {
+  "hanzi": "跳",
+  "pinyin": "tiào",
+  "tones": "4",
+  "meaning": "to jump; to dance"
+ },
+ {
+  "hanzi": "外",
+  "pinyin": "wài",
+  "tones": "4",
+  "meaning": "outside"
+ },
+ {
+  "hanzi": "万",
+  "pinyin": "wàn",
+  "tones": "4",
+  "meaning": "ten thousand"
+ },
+ {
+  "hanzi": "下",
+  "pinyin": "xià",
+  "tones": "4",
+  "meaning": "down; below"
+ },
+ {
+  "hanzi": "夏",
+  "pinyin": "xià",
+  "tones": "4",
+  "meaning": "summer"
+ },
+ {
+  "hanzi": "笑",
+  "pinyin": "xiào",
+  "tones": "4",
+  "meaning": "to laugh; to smile"
+ },
+ {
+  "hanzi": "月",
+  "pinyin": "yuè",
+  "tones": "4",
+  "meaning": "moon; month"
+ },
+ {
+  "hanzi": "药",
+  "pinyin": "yào",
+  "tones": "4",
+  "meaning": "medicine"
+ },
+ {
+  "hanzi": "要",
+  "pinyin": "yào",
+  "tones": "4",
+  "meaning": "to want"
+ },
+ {
+  "hanzi": "夜",
+  "pinyin": "yè",
+  "tones": "4",
+  "meaning": "night"
+ },
+ {
+  "hanzi": "右",
+  "pinyin": "yòu",
+  "tones": "4",
+  "meaning": "right"
+ },
+ {
+  "hanzi": "站",
+  "pinyin": "zhàn",
+  "tones": "4",
+  "meaning": "to stand"
+ },
+ {
+  "hanzi": "重",
+  "pinyin": "zhòng",
+  "tones": "4",
+  "meaning": "heavy"
+ },
+ {
+  "hanzi": "住",
+  "pinyin": "zhù",
+  "tones": "4",
+  "meaning": "to live; to stay"
+ },
+ {
+  "hanzi": "做",
+  "pinyin": "zuò",
+  "tones": "4",
+  "meaning": "to do; to make"
+ },
+ {
+  "hanzi": "坐",
+  "pinyin": "zuò",
+  "tones": "4",
+  "meaning": "to sit"
+ },
+ {
+  "hanzi": "在",
+  "pinyin": "zài",
+  "tones": "4",
+  "meaning": "at; in"
+ },
+ {
+  "hanzi": "爱",
+  "pinyin": "ài",
+  "tones": "4",
+  "meaning": "to love"
+ },
+ {
+  "hanzi": "暗",
+  "pinyin": "àn",
+  "tones": "4",
+  "meaning": "dark"
+ },
+ {
+  "hanzi": "二",
+  "pinyin": "èr",
+  "tones": "4",
+  "meaning": "two"
  }
 ]

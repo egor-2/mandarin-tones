@@ -316,14 +316,14 @@ def main():
     # Ask for level
     while True:
         try:
-            raw = input("Level? (0, 1, or 2): ").strip()
+            raw = input("Level? (1-4): ").strip()
         except (EOFError, KeyboardInterrupt):
             print()
             return
-        if raw in ("0", "1", "2"):
+        if raw in ("1", "2", "3", "4"):
             level = int(raw)
             break
-        print("Please enter 0, 1, or 2.")
+        print("Please enter 1, 2, 3, or 4.")
 
     cards = load_cards(level)
     deque = load_deque()

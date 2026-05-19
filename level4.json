@@ -1,0 +1,1850 @@
+[
+ {
+  "hanzi": "七夕情人节",
+  "pinyin": "qīxīqíngrénjié",
+  "tones": "1-1-2-2-2",
+  "meaning": "seven-day return policy"
+ },
+ {
+  "hanzi": "不够甜请加糖",
+  "pinyin": "bùgòutiánqǐngjiātáng",
+  "tones": "4-4-2-3-1-2",
+  "meaning": "don't add chili peppers"
+ },
+ {
+  "hanzi": "不要打扰服务",
+  "pinyin": "búyàodǎrǎofúwù",
+  "tones": "2-4-3-3-2-4",
+  "meaning": "major selection"
+ },
+ {
+  "hanzi": "不要放辣椒",
+  "pinyin": "búyàofànglàjiāo",
+  "tones": "2-4-4-4-1",
+  "meaning": "homeowners meeting"
+ },
+ {
+  "hanzi": "东风送暖来",
+  "pinyin": "dōngfēngsòngnuǎnlái",
+  "tones": "1-1-4-3-2",
+  "meaning": "personalized push notifications"
+ },
+ {
+  "hanzi": "个性化推送",
+  "pinyin": "gèxìnghuàtuīsòng",
+  "tones": "4-4-4-1-4",
+  "meaning": "heatstroke first aid"
+ },
+ {
+  "hanzi": "买旅行保险",
+  "pinyin": "mǎilǚxíngbǎoxiǎn",
+  "tones": "3-3-2-3-3",
+  "meaning": "race against time"
+ },
+ {
+  "hanzi": "亚热带气候",
+  "pinyin": "yàrèdàiqìhòu",
+  "tones": "4-4-4-4-4",
+  "meaning": "maternity leave application"
+ },
+ {
+  "hanzi": "今天天气好",
+  "pinyin": "jīntiāntiānqìhǎo",
+  "tones": "1-1-1-4-3",
+  "meaning": "trade in old for new"
+ },
+ {
+  "hanzi": "今天怎么样",
+  "pinyin": "jīntiānzěnmeyàng",
+  "tones": "1-1-3-0-4",
+  "meaning": "lead by example"
+ },
+ {
+  "hanzi": "今天打烊了吗",
+  "pinyin": "jīntiāndǎyànglema",
+  "tones": "1-1-3-4-0-0",
+  "meaning": "wait at ease for enemy"
+ },
+ {
+  "hanzi": "今天的特色菜",
+  "pinyin": "jīntiāndetèsècài",
+  "tones": "1-1-0-4-4-4",
+  "meaning": "sit-ups"
+ },
+ {
+  "hanzi": "住几个晚上",
+  "pinyin": "zhùjǐgèwǎnshàng",
+  "tones": "4-3-4-3-4",
+  "meaning": "weight gain"
+ },
+ {
+  "hanzi": "你上哪儿去啊",
+  "pinyin": "nǐshàngnǎérqùa",
+  "tones": "3-4-3-2-4-0",
+  "meaning": "what are you doing"
+ },
+ {
+  "hanzi": "你上班几点啊",
+  "pinyin": "nǐshàngbānjǐdiǎna",
+  "tones": "3-4-1-3-3-0",
+  "meaning": "how many in your family"
+ },
+ {
+  "hanzi": "你今天有空吗",
+  "pinyin": "nǐjīntiānyǒukòngma",
+  "tones": "3-1-1-3-4-0",
+  "meaning": "is work going well"
+ },
+ {
+  "hanzi": "你们都来了吗",
+  "pinyin": "nǐmendōuláilema",
+  "tones": "3-0-1-2-0-0",
+  "meaning": "did you bring cash"
+ },
+ {
+  "hanzi": "你会说中文吗",
+  "pinyin": "nǐhuìshuōzhōngwénma",
+  "tones": "3-4-1-1-2-0",
+  "meaning": "where do you want to go"
+ },
+ {
+  "hanzi": "你住在哪里呢",
+  "pinyin": "nǐzhùzàinǎlǐne",
+  "tones": "3-4-4-3-3-0",
+  "meaning": "can you talk now"
+ },
+ {
+  "hanzi": "你吃过了吗",
+  "pinyin": "nǐchīguòlema",
+  "tones": "3-1-4-0-0",
+  "meaning": "do you have children"
+ },
+ {
+  "hanzi": "你吃饭了吗",
+  "pinyin": "nǐchīfànlema",
+  "tones": "3-1-4-0-0",
+  "meaning": "did you have fun"
+ },
+ {
+  "hanzi": "你在哪里工作",
+  "pinyin": "nǐzàinǎlǐgōngzuò",
+  "tones": "3-4-3-3-1-4",
+  "meaning": "are you available now"
+ },
+ {
+  "hanzi": "你在干什么呢",
+  "pinyin": "nǐzàigànshénmene",
+  "tones": "3-4-4-2-0-0",
+  "meaning": "do you know this"
+ },
+ {
+  "hanzi": "你家有几口人",
+  "pinyin": "nǐjiāyǒujǐkǒurén",
+  "tones": "3-1-3-3-3-2",
+  "meaning": "are you married"
+ },
+ {
+  "hanzi": "你工作顺利吗",
+  "pinyin": "nǐgōngzuòshùnlìma",
+  "tones": "3-1-4-4-4-0",
+  "meaning": "where are you going"
+ },
+ {
+  "hanzi": "你带现金了吗",
+  "pinyin": "nǐdàixiànjīnlema",
+  "tones": "3-4-4-1-0-0",
+  "meaning": "do you know him"
+ },
+ {
+  "hanzi": "你想去哪里玩",
+  "pinyin": "nǐxiǎngqùnǎlǐwán",
+  "tones": "3-3-4-3-3-2",
+  "meaning": "chasing each other"
+ },
+ {
+  "hanzi": "你方便说话吗",
+  "pinyin": "nǐfāngbiànshuōhuàma",
+  "tones": "3-1-4-1-4-0",
+  "meaning": "do you need help"
+ },
+ {
+  "hanzi": "你有孩子吗",
+  "pinyin": "nǐyǒuháizima",
+  "tones": "3-3-2-0-0",
+  "meaning": "convenience store hours"
+ },
+ {
+  "hanzi": "你玩得开心吗",
+  "pinyin": "nǐwándékāixīnma",
+  "tones": "3-2-2-1-1-0",
+  "meaning": "stay healthy"
+ },
+ {
+  "hanzi": "你现在方便吗",
+  "pinyin": "nǐxiànzàifāngbiànma",
+  "tones": "3-4-4-1-4-0",
+  "meaning": "home cleaning service"
+ },
+ {
+  "hanzi": "你知道这个吗",
+  "pinyin": "nǐzhīdàozhègema",
+  "tones": "3-1-4-4-0-0",
+  "meaning": "trust each other"
+ },
+ {
+  "hanzi": "你结婚了没有",
+  "pinyin": "nǐjiéhūnleméiyǒu",
+  "tones": "3-2-1-0-2-3",
+  "meaning": "information cocoon"
+ },
+ {
+  "hanzi": "你要去哪里呢",
+  "pinyin": "nǐyàoqùnǎlǐne",
+  "tones": "3-4-4-3-3-0",
+  "meaning": "credit card installments"
+ },
+ {
+  "hanzi": "你认识他吗",
+  "pinyin": "nǐrènshítāma",
+  "tones": "3-4-2-1-0",
+  "meaning": "repair and maintenance"
+ },
+ {
+  "hanzi": "你需要帮忙吗",
+  "pinyin": "nǐxūyàobāngmángma",
+  "tones": "3-1-4-1-2-0",
+  "meaning": "kill with borrowed knife"
+ },
+ {
+  "hanzi": "便利店营业",
+  "pinyin": "biànlìdiànyíngyè",
+  "tones": "4-4-4-2-4",
+  "meaning": "make ceramics"
+ },
+ {
+  "hanzi": "信用卡分期",
+  "pinyin": "xìnyòngkǎfēnqī",
+  "tones": "4-4-3-1-1",
+  "meaning": "gym workout"
+ },
+ {
+  "hanzi": "停车场在哪",
+  "pinyin": "tíngchēchǎngzàinǎ",
+  "tones": "2-1-3-4-3",
+  "meaning": "Lantern Festival fair"
+ },
+ {
+  "hanzi": "停车要付费吗",
+  "pinyin": "tíngchēyàofùfèima",
+  "tones": "2-1-4-4-4-0",
+  "meaning": "top up phone credit"
+ },
+ {
+  "hanzi": "停车费月卡",
+  "pinyin": "tíngchēfèiyuèkǎ",
+  "tones": "2-1-4-4-3",
+  "meaning": "full of hope"
+ },
+ {
+  "hanzi": "健身房会员",
+  "pinyin": "jiànshēnfánghuìyuán",
+  "tones": "4-1-2-4-2",
+  "meaning": "duty-free shopping"
+ },
+ {
+  "hanzi": "健身房怎么去",
+  "pinyin": "jiànshēnfángzěnmeqù",
+  "tones": "4-1-2-3-0-4",
+  "meaning": "onboarding training"
+ },
+ {
+  "hanzi": "健身房锻炼",
+  "pinyin": "jiànshēnfángduànliàn",
+  "tones": "4-1-2-4-4",
+  "meaning": "go all out"
+ },
+ {
+  "hanzi": "储物柜定制",
+  "pinyin": "chǔwùguìdìngzhì",
+  "tones": "3-4-4-4-4",
+  "meaning": "global warming"
+ },
+ {
+  "hanzi": "儿童游乐区",
+  "pinyin": "értóngyóulèqū",
+  "tones": "2-2-2-4-1",
+  "meaning": "apartment for rent"
+ },
+ {
+  "hanzi": "充电桩位置",
+  "pinyin": "chōngdiànzhuāngwèizhì",
+  "tones": "1-4-1-4-4",
+  "meaning": "joint pain"
+ },
+ {
+  "hanzi": "光污染扰民",
+  "pinyin": "guāngwūrǎnrǎomín",
+  "tones": "1-1-3-3-2",
+  "meaning": "key metrics"
+ },
+ {
+  "hanzi": "免税店在哪",
+  "pinyin": "miǎnshuìdiànzàinǎ",
+  "tones": "3-4-4-4-3",
+  "meaning": "speed is vital in war"
+ },
+ {
+  "hanzi": "兑换货币在哪",
+  "pinyin": "duìhuànhuòbìzàinǎ",
+  "tones": "4-4-4-4-4-3",
+  "meaning": "inner peace"
+ },
+ {
+  "hanzi": "公交车几路",
+  "pinyin": "gōngjiāochējǐlù",
+  "tones": "1-1-1-3-4",
+  "meaning": "frozen icy land"
+ },
+ {
+  "hanzi": "共享停车位",
+  "pinyin": "gòngxiǎngtíngchēwèi",
+  "tones": "4-3-2-1-4",
+  "meaning": "how many dining"
+ },
+ {
+  "hanzi": "写字楼租金",
+  "pinyin": "xiězìlóuzūjīn",
+  "tones": "3-4-2-1-1",
+  "meaning": "brush teeth and rinse"
+ },
+ {
+  "hanzi": "冰箱洗衣机",
+  "pinyin": "bīngxiāngxǐyījī",
+  "tones": "1-1-3-1-1",
+  "meaning": "paper-cutting art"
+ },
+ {
+  "hanzi": "刀叉在哪里",
+  "pinyin": "dāochāzàinǎlǐ",
+  "tones": "1-1-4-3-3",
+  "meaning": "labor dispute"
+ },
+ {
+  "hanzi": "办公室文化",
+  "pinyin": "bàngōngshìwénhuà",
+  "tones": "4-1-4-2-4",
+  "meaning": "promotion and raise"
+ },
+ {
+  "hanzi": "加一碗米饭",
+  "pinyin": "jiāyīwǎnmǐfàn",
+  "tones": "1-1-3-3-4",
+  "meaning": "museum visit"
+ },
+ {
+  "hanzi": "加入购物车",
+  "pinyin": "jiārùgòuwùchē",
+  "tones": "1-4-4-4-1",
+  "meaning": "endure for revenge"
+ },
+ {
+  "hanzi": "加油站在哪里",
+  "pinyin": "jiāyóuzhànzàinǎlǐ",
+  "tones": "1-2-4-4-3-3",
+  "meaning": "historical biography"
+ },
+ {
+  "hanzi": "动画片制作",
+  "pinyin": "dònghuàpiànzhìzuò",
+  "tones": "4-4-4-4-4",
+  "meaning": "forgive the other"
+ },
+ {
+  "hanzi": "包装好一点",
+  "pinyin": "bāozhuānghǎoyìdiǎn",
+  "tones": "1-1-3-4-3",
+  "meaning": "oral hygiene"
+ },
+ {
+  "hanzi": "医院在哪里",
+  "pinyin": "yīyuànzàinǎlǐ",
+  "tones": "1-4-4-3-3",
+  "meaning": "can it be mailed"
+ },
+ {
+  "hanzi": "博物馆参观",
+  "pinyin": "bówùguǎncānguān",
+  "tones": "2-4-3-1-1",
+  "meaning": "guitar sing-along"
+ },
+ {
+  "hanzi": "博物馆在哪里",
+  "pinyin": "bówùguǎnzàinǎlǐ",
+  "tones": "2-4-3-4-3-3",
+  "meaning": "colleague relations"
+ },
+ {
+  "hanzi": "厕所在哪里",
+  "pinyin": "cèsuǒzàinǎlǐ",
+  "tones": "4-3-4-3-3",
+  "meaning": "employee benefits"
+ },
+ {
+  "hanzi": "取款机在哪里",
+  "pinyin": "qǔkuǎnjīzàinǎlǐ",
+  "tones": "3-3-1-4-3-3",
+  "meaning": "pleasantly surprised"
+ },
+ {
+  "hanzi": "古典音乐会",
+  "pinyin": "gǔdiǎnyīnyuèhuì",
+  "tones": "3-3-1-4-4",
+  "meaning": "noise complaint"
+ },
+ {
+  "hanzi": "叫一辆出租车",
+  "pinyin": "jiàoyīliàngchūzūchē",
+  "tones": "4-1-4-1-1-1",
+  "meaning": "give back to society"
+ },
+ {
+  "hanzi": "可以刷卡吗",
+  "pinyin": "kěyǐshuākǎma",
+  "tones": "3-3-1-3-0",
+  "meaning": "team-building activity"
+ },
+ {
+  "hanzi": "可以带酒吗",
+  "pinyin": "kěyǐdàijiǔma",
+  "tones": "3-3-4-3-0",
+  "meaning": "teamwork"
+ },
+ {
+  "hanzi": "可以拍照吗",
+  "pinyin": "kěyǐpāizhàoma",
+  "tones": "3-3-1-4-0",
+  "meaning": "team contribution"
+ },
+ {
+  "hanzi": "可以邮寄吗",
+  "pinyin": "kěyǐyóujìma",
+  "tones": "3-3-2-4-0",
+  "meaning": "gardening and planting"
+ },
+ {
+  "hanzi": "可再生能源",
+  "pinyin": "kězàishēngnéngyuán",
+  "tones": "3-4-1-2-2",
+  "meaning": "rescue Zhao via Wei"
+ },
+ {
+  "hanzi": "咖啡馆消费",
+  "pinyin": "kāfēiguǎnxiāofèi",
+  "tones": "1-1-3-1-4",
+  "meaning": "garbage sorting"
+ },
+ {
+  "hanzi": "喝什么饮料",
+  "pinyin": "hēshénmeyǐnliào",
+  "tones": "1-2-0-3-4",
+  "meaning": "delivery rider"
+ },
+ {
+  "hanzi": "图书馆借书",
+  "pinyin": "túshūguǎnjièshū",
+  "tones": "2-1-3-4-1",
+  "meaning": "heavy snowfall"
+ },
+ {
+  "hanzi": "图书馆自习",
+  "pinyin": "túshūguǎnzìxí",
+  "tones": "2-1-3-4-2",
+  "meaning": "dense thick fog"
+ },
+ {
+  "hanzi": "图书馆阅读",
+  "pinyin": "túshūguǎnyuèdú",
+  "tones": "2-1-3-4-2",
+  "meaning": "world of difference"
+ },
+ {
+  "hanzi": "地下室改造",
+  "pinyin": "dìxiàshìgǎizào",
+  "tones": "4-4-4-3-4",
+  "meaning": "too spicy"
+ },
+ {
+  "hanzi": "地铁站在哪里",
+  "pinyin": "dìtiězhànzàinǎlǐ",
+  "tones": "4-3-4-4-3-3",
+  "meaning": "strive courageously forward"
+ },
+ {
+  "hanzi": "坐地铁去吧",
+  "pinyin": "zuòdìtiěqùba",
+  "tones": "4-4-3-4-0",
+  "meaning": "extremely delicious"
+ },
+ {
+  "hanzi": "增强免疫力",
+  "pinyin": "zēngqiángmiǎnyìlì",
+  "tones": "1-2-3-4-4",
+  "meaning": "wedding venue"
+ },
+ {
+  "hanzi": "外卖可以吗",
+  "pinyin": "wàimàikěyǐma",
+  "tones": "4-4-3-3-0",
+  "meaning": "education requirements"
+ },
+ {
+  "hanzi": "夜市在哪里",
+  "pinyin": "yèshìzàinǎlǐ",
+  "tones": "4-4-4-3-3",
+  "meaning": "regular physical exam"
+ },
+ {
+  "hanzi": "大巴从哪上车",
+  "pinyin": "dàbācóngnǎshàngchē",
+  "tones": "4-1-2-3-4-1",
+  "meaning": "pet exhibition"
+ },
+ {
+  "hanzi": "大提琴演奏",
+  "pinyin": "dàtíqínyǎnzòu",
+  "tones": "4-2-2-3-4",
+  "meaning": "living room sofa"
+ },
+ {
+  "hanzi": "大数据分析",
+  "pinyin": "dàshùjùfēnxī",
+  "tones": "4-4-4-1-1",
+  "meaning": "client meeting"
+ },
+ {
+  "hanzi": "大漠孤烟直",
+  "pinyin": "dàmògūyānzhí",
+  "tones": "4-4-1-1-2",
+  "meaning": "family reunion"
+ },
+ {
+  "hanzi": "大陆性气候",
+  "pinyin": "dàlùxìngqìhòu",
+  "tones": "4-4-4-4-4",
+  "meaning": "family gathering"
+ },
+ {
+  "hanzi": "奖学金申请",
+  "pinyin": "jiǎngxuéjīnshēnqǐng",
+  "tones": "3-2-1-1-3",
+  "meaning": "violin solo"
+ },
+ {
+  "hanzi": "季风影响大",
+  "pinyin": "jìfēngyǐngxiǎngdà",
+  "tones": "4-1-3-3-4",
+  "meaning": "job responsibilities"
+ },
+ {
+  "hanzi": "家具城选购",
+  "pinyin": "jiājùchéngxuǎngòu",
+  "tones": "1-4-2-3-4",
+  "meaning": "employment notice"
+ },
+ {
+  "hanzi": "家庭伦理剧",
+  "pinyin": "jiātínglúnlǐjù",
+  "tones": "1-2-2-3-4",
+  "meaning": "rainbow in the sky"
+ },
+ {
+  "hanzi": "导游费多少",
+  "pinyin": "dǎoyóufèiduōshǎo",
+  "tones": "3-2-4-1-3",
+  "meaning": "emergency treatment"
+ },
+ {
+  "hanzi": "导航怎么用",
+  "pinyin": "dǎohángzěnmeyòng",
+  "tones": "3-2-3-0-4",
+  "meaning": "horror novel"
+ },
+ {
+  "hanzi": "小提琴独奏",
+  "pinyin": "xiǎotíqíndúzòu",
+  "tones": "3-2-2-2-4",
+  "meaning": "nausea and vomiting"
+ },
+ {
+  "hanzi": "小暑热意浓",
+  "pinyin": "xiǎoshǔrèyìnóng",
+  "tones": "3-3-4-4-2",
+  "meaning": "studying with extreme diligence"
+ },
+ {
+  "hanzi": "小满麦穗黄",
+  "pinyin": "xiǎomǎnmàisuìhuáng",
+  "tones": "3-3-4-4-2",
+  "meaning": "sad and grieving"
+ },
+ {
+  "hanzi": "小雪雪花飘",
+  "pinyin": "xiǎoxuěxuěhuāpiāo",
+  "tones": "3-3-3-1-1",
+  "meaning": "deep affection"
+ },
+ {
+  "hanzi": "展览馆门票",
+  "pinyin": "zhǎnlǎnguǎnménpiào",
+  "tones": "3-3-3-2-4",
+  "meaning": "old man moves mountains"
+ },
+ {
+  "hanzi": "帮我拍一下",
+  "pinyin": "bāngwǒpāiyīxià",
+  "tones": "1-3-1-1-4",
+  "meaning": "let me pay the bill"
+ },
+ {
+  "hanzi": "开放式厨房",
+  "pinyin": "kāifàngshìchúfáng",
+  "tones": "1-4-4-2-2",
+  "meaning": "strategic planning"
+ },
+ {
+  "hanzi": "当地有特产",
+  "pinyin": "dāngdìyǒutèchǎn",
+  "tones": "1-4-3-4-3",
+  "meaning": "household registration transfer"
+ },
+ {
+  "hanzi": "当地特色小吃",
+  "pinyin": "dāngdìtèsèxiǎochī",
+  "tones": "1-4-4-4-3-1",
+  "meaning": "landlord and tenant"
+ },
+ {
+  "hanzi": "心脏病预防",
+  "pinyin": "xīnzàngbìngyùfáng",
+  "tones": "1-4-4-4-2",
+  "meaning": "play badminton"
+ },
+ {
+  "hanzi": "必吃的美食",
+  "pinyin": "bìchīdeměishí",
+  "tones": "4-1-0-3-2",
+  "meaning": "scan to pay"
+ },
+ {
+  "hanzi": "快叫救护车",
+  "pinyin": "kuàijiàojiùhùchē",
+  "tones": "4-4-4-4-1",
+  "meaning": "technical support"
+ },
+ {
+  "hanzi": "快递柜取件",
+  "pinyin": "kuàidìguìqǔjiàn",
+  "tones": "4-4-4-3-4",
+  "meaning": "skill requirements"
+ },
+ {
+  "hanzi": "思念一个人",
+  "pinyin": "sīniànyígèrén",
+  "tones": "1-4-2-4-2",
+  "meaning": "return on investment"
+ },
+ {
+  "hanzi": "惊蛰春雷响",
+  "pinyin": "jīngzhéchūnléixiǎng",
+  "tones": "1-2-1-2-3",
+  "meaning": "perseverance"
+ },
+ {
+  "hanzi": "慢走不送了啊",
+  "pinyin": "mànzǒubùsònglea",
+  "tones": "4-3-4-4-0-0",
+  "meaning": "weight control"
+ },
+ {
+  "hanzi": "我下周回来吧",
+  "pinyin": "wǒxiàzhōuhuíláiba",
+  "tones": "3-4-1-2-2-0",
+  "meaning": "plug ears steal bell"
+ },
+ {
+  "hanzi": "我不太明白",
+  "pinyin": "wǒbùtàimíngbái",
+  "tones": "3-4-4-2-2",
+  "meaning": "submit application"
+ },
+ {
+  "hanzi": "我们分开付",
+  "pinyin": "wǒmenfēnkāifù",
+  "tones": "3-0-1-1-4",
+  "meaning": "shake hands make peace"
+ },
+ {
+  "hanzi": "我们合个影吧",
+  "pinyin": "wǒmenhégèyǐngba",
+  "tones": "3-0-2-4-3-0",
+  "meaning": "combat training"
+ },
+ {
+  "hanzi": "我们走吧好吗",
+  "pinyin": "wǒmenzǒubahǎoma",
+  "tones": "3-0-3-0-3-0",
+  "meaning": "moving company"
+ },
+ {
+  "hanzi": "我先生病了啊",
+  "pinyin": "wǒxiānshēngbìnglea",
+  "tones": "3-1-1-4-0-0",
+  "meaning": "moving luggage"
+ },
+ {
+  "hanzi": "我先走了再见",
+  "pinyin": "wǒxiānzǒulezàijiàn",
+  "tones": "3-1-3-0-4-4",
+  "meaning": "stir up trouble"
+ },
+ {
+  "hanzi": "我去超市买菜",
+  "pinyin": "wǒqùchāoshìmǎicài",
+  "tones": "3-4-1-4-3-4",
+  "meaning": "photography exhibition"
+ },
+ {
+  "hanzi": "我可以问你吗",
+  "pinyin": "wǒkěyǐwènnǐma",
+  "tones": "3-3-3-4-3-0",
+  "meaning": "rock concert"
+ },
+ {
+  "hanzi": "我听不太懂啊",
+  "pinyin": "wǒtīngbùtàidǒnga",
+  "tones": "3-1-4-4-3-0",
+  "meaning": "podcast subscription"
+ },
+ {
+  "hanzi": "我喜欢听音乐",
+  "pinyin": "wǒxǐhuāntīngyīnyuè",
+  "tones": "3-3-1-1-1-4",
+  "meaning": "capture the ringleader"
+ },
+ {
+  "hanzi": "我喝了点酒啊",
+  "pinyin": "wǒhēlediǎnjiǔa",
+  "tones": "3-1-0-3-3-0",
+  "meaning": "keeping-up mentality"
+ },
+ {
+  "hanzi": "我学了两年了",
+  "pinyin": "wǒxuéleliǎngniánle",
+  "tones": "3-2-0-3-2-0",
+  "meaning": "shipping address"
+ },
+ {
+  "hanzi": "我对海鲜过敏",
+  "pinyin": "wǒduìhǎixiānguòmǐn",
+  "tones": "3-4-3-1-4-3",
+  "meaning": "invincible in attack"
+ },
+ {
+  "hanzi": "我很好谢谢",
+  "pinyin": "wǒhěnhǎoxièxiè",
+  "tones": "3-3-3-4-4",
+  "meaning": "educate children"
+ },
+ {
+  "hanzi": "我很感谢你啊",
+  "pinyin": "wǒhěngǎnxiènǐa",
+  "tones": "3-3-3-4-3-0",
+  "meaning": "essay writing"
+ },
+ {
+  "hanzi": "我有急事先走",
+  "pinyin": "wǒyǒujíshìxiānzǒu",
+  "tones": "3-3-2-4-1-3",
+  "meaning": "data protection"
+ },
+ {
+  "hanzi": "我来买单好了",
+  "pinyin": "wǒláimǎidānhǎole",
+  "tones": "3-2-3-1-3-0",
+  "meaning": "data analysis"
+ },
+ {
+  "hanzi": "我来得及吗",
+  "pinyin": "wǒláidejíma",
+  "tones": "3-2-0-2-0",
+  "meaning": "integrated bathroom"
+ },
+ {
+  "hanzi": "我来替你做吧",
+  "pinyin": "wǒláitìnǐzuòba",
+  "tones": "3-2-4-3-4-0",
+  "meaning": "file sharing"
+ },
+ {
+  "hanzi": "我没有空今天",
+  "pinyin": "wǒméiyǒukòngjīntiān",
+  "tones": "3-2-3-4-1-1",
+  "meaning": "cultural exchange"
+ },
+ {
+  "hanzi": "我等你好久了",
+  "pinyin": "wǒděngnǐhǎojiǔle",
+  "tones": "3-3-3-3-3-0",
+  "meaning": "cultural heritage"
+ },
+ {
+  "hanzi": "我要一杯水",
+  "pinyin": "wǒyàoyībēishuǐ",
+  "tones": "3-4-1-1-3",
+  "meaning": "four treasures of study"
+ },
+ {
+  "hanzi": "我要去旅游",
+  "pinyin": "wǒyàoqùlǚyóu",
+  "tones": "3-4-4-3-2",
+  "meaning": "art-house film"
+ },
+ {
+  "hanzi": "我要换房间",
+  "pinyin": "wǒyàohuànfángjiān",
+  "tones": "3-4-4-2-1",
+  "meaning": "reconnect after disconnection"
+ },
+ {
+  "hanzi": "我要预约景区",
+  "pinyin": "wǒyàoyùyuējǐngqū",
+  "tones": "3-4-4-1-3-1",
+  "meaning": "new energy vehicle"
+ },
+ {
+  "hanzi": "我请你吃饭吧",
+  "pinyin": "wǒqǐngnǐchīfànba",
+  "tones": "3-3-3-1-4-0",
+  "meaning": "travel literature"
+ },
+ {
+  "hanzi": "我身体不舒服",
+  "pinyin": "wǒshēntǐbùshūfú",
+  "tones": "3-1-3-4-1-2",
+  "meaning": "create from nothing"
+ },
+ {
+  "hanzi": "我送你回家吧",
+  "pinyin": "wǒsòngnǐhuíjiāba",
+  "tones": "3-4-3-2-1-0",
+  "meaning": "drone delivery"
+ },
+ {
+  "hanzi": "我钱包丢了",
+  "pinyin": "wǒqiánbāodiūle",
+  "tones": "3-2-1-1-0",
+  "meaning": "indestructible"
+ },
+ {
+  "hanzi": "我饿了想吃饭",
+  "pinyin": "wǒèlexiǎngchīfàn",
+  "tones": "3-4-0-3-1-4",
+  "meaning": "cashless payment"
+ },
+ {
+  "hanzi": "房间钥匙在哪",
+  "pinyin": "fángjiānyàoshizàinǎ",
+  "tones": "2-1-4-0-4-3",
+  "meaning": "what time is breakfast"
+ },
+ {
+  "hanzi": "打折有没有",
+  "pinyin": "dǎzhéyǒuméiyǒu",
+  "tones": "3-2-3-2-3",
+  "meaning": "audiobook"
+ },
+ {
+  "hanzi": "打车要多少钱",
+  "pinyin": "dǎchēyàoduōshǎoqián",
+  "tones": "3-1-4-1-3-2",
+  "meaning": "how much is service fee"
+ },
+ {
+  "hanzi": "托运行李在哪",
+  "pinyin": "tuōyùnxínglǐzàinǎ",
+  "tones": "1-4-2-3-4-3",
+  "meaning": "medication treatment"
+ },
+ {
+  "hanzi": "扫地机器人",
+  "pinyin": "sǎodìjīqìrén",
+  "tones": "3-4-1-4-2",
+  "meaning": "quench thirst imagining plums"
+ },
+ {
+  "hanzi": "找零钱给我",
+  "pinyin": "zhǎolíngqiángěiwǒ",
+  "tones": "3-2-2-3-3",
+  "meaning": "wood carving craft"
+ },
+ {
+  "hanzi": "护照带了吗",
+  "pinyin": "hùzhàodàilema",
+  "tones": "4-4-4-0-0",
+  "meaning": "dense forest"
+ },
+ {
+  "hanzi": "拍张照片好吗",
+  "pinyin": "pāizhāngzhàopiānhǎoma",
+  "tones": "1-1-4-1-3-0",
+  "meaning": "guaranteed authentic"
+ },
+ {
+  "hanzi": "换一个房间吧",
+  "pinyin": "huànyígèfángjiānba",
+  "tones": "4-2-4-2-1-0",
+  "meaning": "homestay check-in"
+ },
+ {
+  "hanzi": "换一张桌子",
+  "pinyin": "huànyīzhāngzhuōzi",
+  "tones": "4-1-1-1-0",
+  "meaning": "ethnic dance"
+ },
+ {
+  "hanzi": "推荐什么菜",
+  "pinyin": "tuījiànshénmecài",
+  "tones": "1-4-2-0-4",
+  "meaning": "water electric meters"
+ },
+ {
+  "hanzi": "推荐哪个景点",
+  "pinyin": "tuījiànnǎgejǐngdiǎn",
+  "tones": "1-4-3-0-3-3",
+  "meaning": "united forever"
+ },
+ {
+  "hanzi": "摇滚演唱会",
+  "pinyin": "yáogǔnyǎnchànghuì",
+  "tones": "2-3-3-4-4",
+  "meaning": "flood overflow"
+ },
+ {
+  "hanzi": "斑马线过街",
+  "pinyin": "bānmǎxiànguòjiē",
+  "tones": "1-3-4-4-1",
+  "meaning": "greenhouse effect"
+ },
+ {
+  "hanzi": "新用户专享",
+  "pinyin": "xīnyònghùzhuānxiǎng",
+  "tones": "1-4-4-1-3",
+  "meaning": "swimming fitness"
+ },
+ {
+  "hanzi": "新能源汽车",
+  "pinyin": "xīnnéngyuánqìchē",
+  "tones": "1-2-2-4-1",
+  "meaning": "swimming competition"
+ },
+ {
+  "hanzi": "无人机配送",
+  "pinyin": "wúrénjīpèisòng",
+  "tones": "2-2-1-4-4",
+  "meaning": "drowning first aid"
+ },
+ {
+  "hanzi": "无现金支付",
+  "pinyin": "wúxiànjīnzhīfù",
+  "tones": "2-4-1-1-4",
+  "meaning": "discount promotion"
+ },
+ {
+  "hanzi": "早餐几点开始",
+  "pinyin": "zǎocānjǐdiǎnkāishǐ",
+  "tones": "3-1-3-3-1-3",
+  "meaning": "fireworks show"
+ },
+ {
+  "hanzi": "旺季人很多",
+  "pinyin": "wàngjìrénhěnduō",
+  "tones": "4-4-2-3-1",
+  "meaning": "warm hospitality"
+ },
+ {
+  "hanzi": "春季花粉多",
+  "pinyin": "chūnjìhuāfěnduō",
+  "tones": "1-4-1-3-1",
+  "meaning": "eyes brimming tears"
+ },
+ {
+  "hanzi": "晚上几点关门",
+  "pinyin": "wǎnshàngjǐdiǎnguānmén",
+  "tones": "3-4-3-3-1-2",
+  "meaning": "hiking for fitness"
+ },
+ {
+  "hanzi": "景区门票多少",
+  "pinyin": "jǐngqūménpiàoduōshǎo",
+  "tones": "3-1-2-4-1-3",
+  "meaning": "how long to hike"
+ },
+ {
+  "hanzi": "景泰蓝工艺",
+  "pinyin": "jǐngtàilángōngyì",
+  "tones": "3-4-2-1-4",
+  "meaning": "romance movie"
+ },
+ {
+  "hanzi": "智能快递柜",
+  "pinyin": "zhìnéngkuàidìguì",
+  "tones": "4-2-4-4-4",
+  "meaning": "jazz music"
+ },
+ {
+  "hanzi": "更年期综合症",
+  "pinyin": "gēngniánqīzōnghézhèng",
+  "tones": "1-2-1-1-2-4",
+  "meaning": "logistics tracking"
+ },
+ {
+  "hanzi": "最近工作忙吗",
+  "pinyin": "zuìjìngōngzuòmángma",
+  "tones": "4-4-1-4-2-0",
+  "meaning": "walking hand-in-hand"
+ },
+ {
+  "hanzi": "有中文导游吗",
+  "pinyin": "yǒuzhōngwéndǎoyóuma",
+  "tones": "3-1-2-3-2-0",
+  "meaning": "solo singing performance"
+ },
+ {
+  "hanzi": "有没有海景房",
+  "pinyin": "yǒuméiyǒuhǎijǐngfáng",
+  "tones": "3-2-3-3-3-2",
+  "meaning": "jade carving art"
+ },
+ {
+  "hanzi": "有没有筷子",
+  "pinyin": "yǒuméiyǒukuàizi",
+  "tones": "3-2-3-4-0",
+  "meaning": "modern poetry"
+ },
+ {
+  "hanzi": "有没有网络",
+  "pinyin": "yǒuméiyǒuwǎngluò",
+  "tones": "3-2-3-3-4",
+  "meaning": "modern urban drama"
+ },
+ {
+  "hanzi": "朋友圈发布",
+  "pinyin": "péngyǒuquānfābù",
+  "tones": "2-3-1-1-4",
+  "meaning": "what time is it"
+ },
+ {
+  "hanzi": "服务员过来",
+  "pinyin": "fúwùyuánguòlái",
+  "tones": "2-4-2-4-2",
+  "meaning": "cherish feelings"
+ },
+ {
+  "hanzi": "服务费是多少",
+  "pinyin": "fúwùfèishìduōshǎo",
+  "tones": "2-4-4-4-1-3",
+  "meaning": "harmonious marriage"
+ },
+ {
+  "hanzi": "来一瓶啤酒",
+  "pinyin": "láiyīpíngpíjiǔ",
+  "tones": "2-1-2-2-3",
+  "meaning": "cinema scheduling"
+ },
+ {
+  "hanzi": "植树造林忙",
+  "pinyin": "zhíshùzàolínmáng",
+  "tones": "2-4-4-2-2",
+  "meaning": "sick leave conditions"
+ },
+ {
+  "hanzi": "榻榻米设计",
+  "pinyin": "tàtàmǐshèjì",
+  "tones": "4-4-3-4-4",
+  "meaning": "crying bitterly"
+ },
+ {
+  "hanzi": "武侠电视剧",
+  "pinyin": "wǔxiádiànshìjù",
+  "tones": "3-2-4-4-4",
+  "meaning": "win every battle"
+ },
+ {
+  "hanzi": "毛坯房装修",
+  "pinyin": "máopīfángzhuāngxiū",
+  "tones": "2-1-2-1-1",
+  "meaning": "Pangu creates world"
+ },
+ {
+  "hanzi": "民宿怎么样",
+  "pinyin": "mínsùzěnmeyàng",
+  "tones": "2-4-3-0-4",
+  "meaning": "livestream tipping"
+ },
+ {
+  "hanzi": "气候变化快",
+  "pinyin": "qìhòubiànhuàkuài",
+  "tones": "4-4-4-4-4",
+  "meaning": "house viewing appointment"
+ },
+ {
+  "hanzi": "水污染严重",
+  "pinyin": "shuǐwūrǎnyánzhòng",
+  "tones": "3-1-3-2-4",
+  "meaning": "reality TV show"
+ },
+ {
+  "hanzi": "水资源匮乏",
+  "pinyin": "shuǐzīyuánkuìfá",
+  "tones": "3-1-2-4-2",
+  "meaning": "know yourself and enemy"
+ },
+ {
+  "hanzi": "汇率是多少",
+  "pinyin": "huìlǜshìduōshǎo",
+  "tones": "4-4-4-1-3",
+  "meaning": "short-term plan"
+ },
+ {
+  "hanzi": "汤有点咸了",
+  "pinyin": "tāngyǒudiǎnxiánle",
+  "tones": "1-3-3-2-0",
+  "meaning": "short-term rental"
+ },
+ {
+  "hanzi": "沙尘暴肆虐",
+  "pinyin": "shāchénbàosìnüè",
+  "tones": "1-2-4-4-4",
+  "meaning": "short video creation"
+ },
+ {
+  "hanzi": "没关系不用谢",
+  "pinyin": "méiguānxìbùyòngxiè",
+  "tones": "2-1-4-4-4-4",
+  "meaning": "bargaining event"
+ },
+ {
+  "hanzi": "泥石流灾害",
+  "pinyin": "níshíliúzāihài",
+  "tones": "2-2-2-1-4",
+  "meaning": "carbon emission reduction"
+ },
+ {
+  "hanzi": "流行音乐节",
+  "pinyin": "liúxíngyīnyuèjié",
+  "tones": "2-2-1-4-2",
+  "meaning": "myths and legends"
+ },
+ {
+  "hanzi": "海关要申报吗",
+  "pinyin": "hǎiguānyàoshēnbàoma",
+  "tones": "3-1-4-1-4-0",
+  "meaning": "autumn breeze refreshing"
+ },
+ {
+  "hanzi": "海岸线绵长",
+  "pinyin": "hǎiànxiànmiánzhǎng",
+  "tones": "3-4-4-2-3",
+  "meaning": "growing flowers and grass"
+ },
+ {
+  "hanzi": "海平面上升",
+  "pinyin": "hǎipíngmiànshàngshēng",
+  "tones": "3-2-4-4-1",
+  "meaning": "product recommendation"
+ },
+ {
+  "hanzi": "海洋性气候",
+  "pinyin": "hǎiyángxìngqìhòu",
+  "tones": "3-2-4-4-4",
+  "meaning": "science fiction novel"
+ },
+ {
+  "hanzi": "海滩离这多远",
+  "pinyin": "hǎitānlízhèduōyuǎn",
+  "tones": "3-1-2-4-1-3",
+  "meaning": "science fiction movie"
+ },
+ {
+  "hanzi": "淡季旅游好",
+  "pinyin": "dànjìlǚyóuhǎo",
+  "tones": "4-4-3-2-3",
+  "meaning": "where to rent bikes"
+ },
+ {
+  "hanzi": "清泉石上流",
+  "pinyin": "qīngquánshíshàngliú",
+  "tones": "1-2-2-4-2",
+  "meaning": "transfer affections"
+ },
+ {
+  "hanzi": "温泉怎么泡",
+  "pinyin": "wēnquánzěnmepào",
+  "tones": "1-2-3-0-4",
+  "meaning": "air pollution"
+ },
+ {
+  "hanzi": "游泳池在哪里",
+  "pinyin": "yóuyǒngchízàinǎlǐ",
+  "tones": "2-3-2-4-3-3",
+  "meaning": "curtain fabric"
+ },
+ {
+  "hanzi": "游泳馆开放",
+  "pinyin": "yóuyǒngguǎnkāifàng",
+  "tones": "2-3-3-1-4",
+  "meaning": "under the overpass"
+ },
+ {
+  "hanzi": "湖边散步去",
+  "pinyin": "húbiānsànbùqù",
+  "tones": "2-1-4-4-4",
+  "meaning": "buy immediately"
+ },
+ {
+  "hanzi": "湖边芦苇荡",
+  "pinyin": "húbiānlúwěidàng",
+  "tones": "2-1-2-3-4",
+  "meaning": "competitor"
+ },
+ {
+  "hanzi": "湿地保护好",
+  "pinyin": "shīdìbǎohùhǎo",
+  "tones": "1-4-3-4-3",
+  "meaning": "fairy tale"
+ },
+ {
+  "hanzi": "火车票买好了",
+  "pinyin": "huǒchēpiàomǎihǎole",
+  "tones": "3-1-4-3-3-0",
+  "meaning": "visa approved"
+ },
+ {
+  "hanzi": "热水没有了",
+  "pinyin": "rèshuǐméiyǒule",
+  "tones": "4-3-2-3-0",
+  "meaning": "Cantonese opera performance"
+ },
+ {
+  "hanzi": "燃气表读数",
+  "pinyin": "ránqìbiǎodúshù",
+  "tones": "2-4-3-2-4",
+  "meaning": "purple clay teapot collecting"
+ },
+ {
+  "hanzi": "爬山要多久",
+  "pinyin": "páshānyàoduōjiǔ",
+  "tones": "2-1-4-1-3",
+  "meaning": "traffic light intersection"
+ },
+ {
+  "hanzi": "物业费缴纳",
+  "pinyin": "wùyèfèijiǎonà",
+  "tones": "4-4-4-3-4",
+  "meaning": "organizational structure"
+ },
+ {
+  "hanzi": "现代都市剧",
+  "pinyin": "xiàndàidūshìjù",
+  "tones": "4-4-1-4-4",
+  "meaning": "lease renewal negotiation"
+ },
+ {
+  "hanzi": "现在几点了呢",
+  "pinyin": "xiànzàijǐdiǎnlene",
+  "tones": "4-4-3-3-0-0",
+  "meaning": "vitamin deficiency"
+ },
+ {
+  "hanzi": "珊瑚礁美丽",
+  "pinyin": "shānhújiāoměilì",
+  "tones": "1-2-1-3-4",
+  "meaning": "green belt maintenance"
+ },
+ {
+  "hanzi": "生物多样性",
+  "pinyin": "shēngwùduōyàngxìng",
+  "tones": "1-4-1-4-4",
+  "meaning": "bad network signal"
+ },
+ {
+  "hanzi": "电影节活动",
+  "pinyin": "diànyǐngjiéhuódòng",
+  "tones": "4-3-2-2-4",
+  "meaning": "online variety show"
+ },
+ {
+  "hanzi": "电影院排片",
+  "pinyin": "diànyǐngyuànpáipiàn",
+  "tones": "4-3-4-2-4",
+  "meaning": "public opinion online"
+ },
+ {
+  "hanzi": "登机口在哪里",
+  "pinyin": "dēngjīkǒuzàinǎlǐ",
+  "tones": "1-1-3-4-3-3",
+  "meaning": "senior activity room"
+ },
+ {
+  "hanzi": "白开水就行",
+  "pinyin": "báikāishuǐjiùxíng",
+  "tones": "2-1-3-4-2",
+  "meaning": "exam review"
+ },
+ {
+  "hanzi": "皮影戏表演",
+  "pinyin": "píyǐngxìbiǎoyǎn",
+  "tones": "2-3-4-3-3",
+  "meaning": "professional qualification"
+ },
+ {
+  "hanzi": "直播间打赏",
+  "pinyin": "zhíbōjiāndǎshǎng",
+  "tones": "2-1-1-3-3",
+  "meaning": "muscle soreness"
+ },
+ {
+  "hanzi": "真人秀节目",
+  "pinyin": "zhēnrénxiùjiémù",
+  "tones": "1-2-4-2-4",
+  "meaning": "can it be cheaper"
+ },
+ {
+  "hanzi": "短信验证码",
+  "pinyin": "duǎnxìnyànzhèngmǎ",
+  "tones": "3-4-4-4-3",
+  "meaning": "autonomous driving"
+ },
+ {
+  "hanzi": "短视频创作",
+  "pinyin": "duǎnshìpínchuàngzuò",
+  "tones": "3-4-2-4-4",
+  "meaning": "nature reserve"
+ },
+ {
+  "hanzi": "砍价行不行",
+  "pinyin": "kǎnjiàxíngbùxíng",
+  "tones": "3-4-2-4-2",
+  "meaning": "sacrifice for others"
+ },
+ {
+  "hanzi": "研究生考试",
+  "pinyin": "yánjiūshēngkǎoshì",
+  "tones": "2-1-1-3-4",
+  "meaning": "stage play performance"
+ },
+ {
+  "hanzi": "碳排放减少",
+  "pinyin": "tànpáifàngjiǎnshǎo",
+  "tones": "4-2-4-3-3",
+  "meaning": "how to buy boat tickets"
+ },
+ {
+  "hanzi": "租自行车在哪",
+  "pinyin": "zūzìxíngchēzàinǎ",
+  "tones": "1-4-2-1-4-3",
+  "meaning": "Cainiao delivery station"
+ },
+ {
+  "hanzi": "租车需要什么",
+  "pinyin": "zūchēxūyàoshénme",
+  "tones": "1-1-1-4-2-0",
+  "meaning": "malnutrition"
+ },
+ {
+  "hanzi": "空气质量差",
+  "pinyin": "kōngqìzhìliàngchà",
+  "tones": "1-4-4-4-4",
+  "meaning": "protein supplement"
+ },
+ {
+  "hanzi": "端午赛龙舟",
+  "pinyin": "duānwǔsàilóngzhōu",
+  "tones": "1-3-4-2-1",
+  "meaning": "itinerary arranged"
+ },
+ {
+  "hanzi": "签证申请好了",
+  "pinyin": "qiānzhèngshēnqǐnghǎole",
+  "tones": "1-4-1-3-3-0",
+  "meaning": "act bravely for justice"
+ },
+ {
+  "hanzi": "糖尿病管理",
+  "pinyin": "tángniàobìngguǎnlǐ",
+  "tones": "2-4-4-3-3",
+  "meaning": "thesis defense"
+ },
+ {
+  "hanzi": "素食有什么",
+  "pinyin": "sùshíyǒushénme",
+  "tones": "4-2-3-2-0",
+  "meaning": "play rehearsal"
+ },
+ {
+  "hanzi": "紫砂壶收藏",
+  "pinyin": "zǐshāhúshōucáng",
+  "tones": "3-1-2-1-2",
+  "meaning": "hashtag topic"
+ },
+ {
+  "hanzi": "红树林护岸",
+  "pinyin": "hóngshùlínhùàn",
+  "tones": "2-4-2-4-4",
+  "meaning": "voice assistant"
+ },
+ {
+  "hanzi": "红绿灯路口",
+  "pinyin": "hónglǜdēnglùkǒu",
+  "tones": "2-4-1-4-3",
+  "meaning": "voice call"
+ },
+ {
+  "hanzi": "纪录片拍摄",
+  "pinyin": "jìlùpiànpāishè",
+  "tones": "4-4-4-1-4",
+  "meaning": "please take care of me"
+ },
+ {
+  "hanzi": "纪念品在哪买",
+  "pinyin": "jìniànpǐnzàinǎmǎi",
+  "tones": "4-4-3-4-3-3",
+  "meaning": "what is your name"
+ },
+ {
+  "hanzi": "续住可以吗",
+  "pinyin": "xùzhùkěyǐma",
+  "tones": "4-4-3-3-0",
+  "meaning": "exhaust all schemes"
+ },
+ {
+  "hanzi": "维生素缺乏",
+  "pinyin": "wéishēngsùquēfá",
+  "tones": "2-1-4-1-2",
+  "meaning": "retreat is best strategy"
+ },
+ {
+  "hanzi": "绿化带保养",
+  "pinyin": "lǜhuàdàibǎoyǎng",
+  "tones": "4-4-4-3-3",
+  "meaning": "visit friends and relatives"
+ },
+ {
+  "hanzi": "网上订票方便",
+  "pinyin": "wǎngshàngdìngpiàofāngbiàn",
+  "tones": "3-4-4-4-1-4",
+  "meaning": "exceed the target"
+ },
+ {
+  "hanzi": "网红直播间",
+  "pinyin": "wǎnghóngzhíbōjiān",
+  "tones": "3-2-2-1-1",
+  "meaning": "cross-border e-commerce"
+ },
+ {
+  "hanzi": "网络信号不好",
+  "pinyin": "wǎngluòxìnhàobùhǎo",
+  "tones": "3-4-4-4-4-3",
+  "meaning": "street light illumination"
+ },
+ {
+  "hanzi": "网络流行语",
+  "pinyin": "wǎngluòliúxíngyǔ",
+  "tones": "3-4-2-2-3",
+  "meaning": "dance ballet"
+ },
+ {
+  "hanzi": "美术馆展览",
+  "pinyin": "měishùguǎnzhǎnlǎn",
+  "tones": "3-4-3-3-3",
+  "meaning": "resignation letter"
+ },
+ {
+  "hanzi": "老年活动室",
+  "pinyin": "lǎoniánhuódòngshì",
+  "tones": "3-2-2-4-4",
+  "meaning": "strategize masterfully"
+ },
+ {
+  "hanzi": "肩周炎治疗",
+  "pinyin": "jiānzhōuyánzhìliáo",
+  "tones": "1-1-2-4-2",
+  "meaning": "what time is checkout"
+ },
+ {
+  "hanzi": "能便宜点吗",
+  "pinyin": "néngpiányidiǎnma",
+  "tones": "2-2-0-3-0",
+  "meaning": "talent show competition"
+ },
+ {
+  "hanzi": "能叫早餐吗",
+  "pinyin": "néngjiàozǎocānma",
+  "tones": "2-4-3-1-0",
+  "meaning": "pass the assessment"
+ },
+ {
+  "hanzi": "自然保护区",
+  "pinyin": "zìránbǎohùqū",
+  "tones": "4-2-3-4-1",
+  "meaning": "department meeting"
+ },
+ {
+  "hanzi": "臭氧层破坏",
+  "pinyin": "chòuyǎngcéngpòhuài",
+  "tones": "4-3-2-4-4",
+  "meaning": "supporting facilities"
+ },
+ {
+  "hanzi": "舞台剧演出",
+  "pinyin": "wǔtáijùyǎnchū",
+  "tones": "3-2-4-3-1",
+  "meaning": "fair-weather friends"
+ },
+ {
+  "hanzi": "船票怎么买",
+  "pinyin": "chuánpiàozěnmemǎi",
+  "tones": "2-4-3-0-3",
+  "meaning": "reconcile and make up"
+ },
+ {
+  "hanzi": "艺术节庆典",
+  "pinyin": "yìshùjiéqìngdiǎn",
+  "tones": "4-4-2-4-3",
+  "meaning": "Double Ninth hilltop climb"
+ },
+ {
+  "hanzi": "荒漠化蔓延",
+  "pinyin": "huāngmòhuàmànyán",
+  "tones": "1-4-4-4-2",
+  "meaning": "guard registration"
+ },
+ {
+  "hanzi": "菜单给我看",
+  "pinyin": "càidāngěiwǒkàn",
+  "tones": "4-1-3-3-4",
+  "meaning": "see a doctor"
+ },
+ {
+  "hanzi": "落地窗景色",
+  "pinyin": "luòdìchuāngjǐngsè",
+  "tones": "4-4-1-3-4",
+  "meaning": "rise at cock's crow"
+ },
+ {
+  "hanzi": "蛋白质补充",
+  "pinyin": "dànbáizhìbǔchōng",
+  "tones": "4-2-4-3-1",
+  "meaning": "any pharmacy nearby"
+ },
+ {
+  "hanzi": "行李寄存在哪",
+  "pinyin": "xínglǐjìcúnzàinǎ",
+  "tones": "2-3-4-2-4-3",
+  "meaning": "tunnel speed limit"
+ },
+ {
+  "hanzi": "行李箱坏了",
+  "pinyin": "xínglǐxiānghuàile",
+  "tones": "2-3-1-4-0",
+  "meaning": "sculpture art"
+ },
+ {
+  "hanzi": "行李超重了",
+  "pinyin": "xínglǐchāozhòngle",
+  "tones": "2-3-1-4-0",
+  "meaning": "thunder and lightning"
+ },
+ {
+  "hanzi": "行程安排好了",
+  "pinyin": "xíngchéngānpáihǎole",
+  "tones": "2-2-1-2-3-0",
+  "meaning": "smog weather"
+ },
+ {
+  "hanzi": "警察局在哪里",
+  "pinyin": "jǐngchájúzàinǎlǐ",
+  "tones": "3-2-2-4-3-3",
+  "meaning": "carpool rideshare"
+ },
+ {
+  "hanzi": "订机票去哪里",
+  "pinyin": "dìngjīpiàoqùnǎlǐ",
+  "tones": "4-1-4-4-3-3",
+  "meaning": "pre-sale products"
+ },
+ {
+  "hanzi": "请多关照了啊",
+  "pinyin": "qǐngduōguānzhàolea",
+  "tones": "3-1-1-4-0-0",
+  "meaning": "venture capital"
+ },
+ {
+  "hanzi": "请多多指教啊",
+  "pinyin": "qǐngduōduōzhǐjiàoa",
+  "tones": "3-1-1-3-4-0",
+  "meaning": "flight is delayed"
+ },
+ {
+  "hanzi": "请问你叫什么",
+  "pinyin": "qǐngwènnǐjiàoshénme",
+  "tones": "3-4-3-4-2-0",
+  "meaning": "food poisoning"
+ },
+ {
+  "hanzi": "请问怎么走啊",
+  "pinyin": "qǐngwènzěnmezǒua",
+  "tones": "3-4-3-0-3-0",
+  "meaning": "what floor is restaurant"
+ },
+ {
+  "hanzi": "请问有人在吗",
+  "pinyin": "qǐngwènyǒurénzàima",
+  "tones": "3-4-3-2-4-0",
+  "meaning": "restaurant reservation"
+ },
+ {
+  "hanzi": "谷雨农耕忙",
+  "pinyin": "gǔyǔnónggēngmáng",
+  "tones": "3-3-2-1-2",
+  "meaning": "down payment ratio"
+ },
+ {
+  "hanzi": "购物车清空",
+  "pinyin": "gòuwùchēqīngkōng",
+  "tones": "4-4-1-1-1",
+  "meaning": "fracture fixation"
+ },
+ {
+  "hanzi": "超市购物车",
+  "pinyin": "chāoshìgòuwùchē",
+  "tones": "1-4-4-4-1",
+  "meaning": "high-speed rail fare"
+ },
+ {
+  "hanzi": "路由器设置",
+  "pinyin": "lùyóuqìshèzhì",
+  "tones": "4-2-4-4-4",
+  "meaning": "router settings"
+ },
+ {
+  "hanzi": "这个不新鲜",
+  "pinyin": "zhègebùxīnxiān",
+  "tones": "4-0-4-1-1",
+  "meaning": "this is not fresh"
+ },
+ {
+  "hanzi": "这个多少钱",
+  "pinyin": "zhègeduōshǎoqián",
+  "tones": "4-0-1-3-2",
+  "meaning": "how much is this"
+ },
+ {
+  "hanzi": "这个多少钱呢",
+  "pinyin": "zhègeduōshǎoqiánne",
+  "tones": "4-0-1-3-2-0",
+  "meaning": "how much is this"
+ },
+ {
+  "hanzi": "这个怎么用呢",
+  "pinyin": "zhègezěnmeyòngne",
+  "tones": "4-0-3-0-4-0",
+  "meaning": "how do you use this"
+ },
+ {
+  "hanzi": "这条路堵车吗",
+  "pinyin": "zhètiáolùdǔchēma",
+  "tones": "4-2-4-3-1-0",
+  "meaning": "is this road congested"
+ },
+ {
+  "hanzi": "这道菜还没来",
+  "pinyin": "zhèdàocàiháiméilái",
+  "tones": "4-4-4-2-2-2",
+  "meaning": "dish hasn't arrived yet"
+ },
+ {
+  "hanzi": "这里人太多",
+  "pinyin": "zhèlǐréntàiduō",
+  "tones": "4-3-2-4-1",
+  "meaning": "too many people here"
+ },
+ {
+  "hanzi": "这里值得游览",
+  "pinyin": "zhèlǐzhídeyóulǎn",
+  "tones": "4-3-2-0-2-3",
+  "meaning": "worth visiting here"
+ },
+ {
+  "hanzi": "这里可以坐吗",
+  "pinyin": "zhèlǐkěyǐzuòma",
+  "tones": "4-3-3-3-4-0",
+  "meaning": "may I sit here"
+ },
+ {
+  "hanzi": "这里有人坐吗",
+  "pinyin": "zhèlǐyǒurénzuòma",
+  "tones": "4-3-3-2-4-0",
+  "meaning": "is this seat taken"
+ },
+ {
+  "hanzi": "这里的招牌菜",
+  "pinyin": "zhèlǐdezhāopáicài",
+  "tones": "4-3-0-1-2-4",
+  "meaning": "signature dish here"
+ },
+ {
+  "hanzi": "这里禁止吸烟",
+  "pinyin": "zhèlǐjìnzhǐxīyān",
+  "tones": "4-3-4-3-1-1",
+  "meaning": "no smoking here"
+ },
+ {
+  "hanzi": "迷路了怎么办",
+  "pinyin": "mílùlezěnmebàn",
+  "tones": "2-4-0-3-0-4",
+  "meaning": "what if I'm lost"
+ },
+ {
+  "hanzi": "退房是几点",
+  "pinyin": "tuìfángshìjǐdiǎn",
+  "tones": "4-2-4-3-3",
+  "meaning": "what time is checkout"
+ },
+ {
+  "hanzi": "逛街购物去",
+  "pinyin": "guàngjiēgòuwùqù",
+  "tones": "4-1-4-4-4",
+  "meaning": "go shopping"
+ },
+ {
+  "hanzi": "酒店怎么预订",
+  "pinyin": "jiǔdiànzěnmeyùdìng",
+  "tones": "3-4-3-0-4-4",
+  "meaning": "how to book hotel"
+ },
+ {
+  "hanzi": "重新做一下",
+  "pinyin": "chóngxīnzuòyīxià",
+  "tones": "2-1-4-1-4",
+  "meaning": "redo it"
+ },
+ {
+  "hanzi": "附近有药店吗",
+  "pinyin": "fùjìnyǒuyàodiànma",
+  "tones": "4-4-3-4-4-0",
+  "meaning": "any pharmacy nearby"
+ },
+ {
+  "hanzi": "随便你决定吧",
+  "pinyin": "suíbiànnǐjuédìngba",
+  "tones": "2-4-3-2-4-0",
+  "meaning": "it's up to you"
+ },
+ {
+  "hanzi": "隔断墙拆除",
+  "pinyin": "géduànqiángchāichú",
+  "tones": "2-4-2-1-2",
+  "meaning": "partition wall removal"
+ },
+ {
+  "hanzi": "需要报警吗",
+  "pinyin": "xūyàobàojǐngma",
+  "tones": "1-4-4-3-0",
+  "meaning": "need to call police"
+ },
+ {
+  "hanzi": "青旅有空床吗",
+  "pinyin": "qīnglǚyǒukòngchuángma",
+  "tones": "1-3-3-4-2-0",
+  "meaning": "hostel beds available"
+ },
+ {
+  "hanzi": "音乐节现场",
+  "pinyin": "yīnyuèjiéxiànchǎng",
+  "tones": "1-4-2-4-3",
+  "meaning": "music festival live"
+ },
+ {
+  "hanzi": "顺风车拼车",
+  "pinyin": "shùnfēngchēpīnchē",
+  "tones": "4-1-1-1-1",
+  "meaning": "carpool rideshare"
+ },
+ {
+  "hanzi": "颈椎病治疗",
+  "pinyin": "jǐngchuíbìngzhìliáo",
+  "tones": "3-2-4-4-2",
+  "meaning": "cervical spine treatment"
+ },
+ {
+  "hanzi": "风景真漂亮",
+  "pinyin": "fēngjǐngzhēnpiàoliàng",
+  "tones": "1-3-1-4-4",
+  "meaning": "beautiful scenery"
+ },
+ {
+  "hanzi": "飞机延误了",
+  "pinyin": "fēijīyánwùle",
+  "tones": "1-1-2-4-0",
+  "meaning": "flight is delayed"
+ },
+ {
+  "hanzi": "餐厅在几楼",
+  "pinyin": "cāntīngzàijǐlóu",
+  "tones": "1-1-4-3-2",
+  "meaning": "what floor is restaurant"
+ },
+ {
+  "hanzi": "马拉松比赛",
+  "pinyin": "mǎlāsōngbǐsài",
+  "tones": "3-1-1-3-4",
+  "meaning": "marathon race"
+ },
+ {
+  "hanzi": "驾照有效吗",
+  "pinyin": "jiàzhàoyǒuxiàoma",
+  "tones": "4-4-3-4-0",
+  "meaning": "is license valid"
+ },
+ {
+  "hanzi": "高架桥收费",
+  "pinyin": "gāojiàqiáoshōufèi",
+  "tones": "1-4-2-1-4",
+  "meaning": "overpass toll"
+ },
+ {
+  "hanzi": "高血压危象",
+  "pinyin": "gāoxuèyāwēixiàng",
+  "tones": "1-4-1-1-4",
+  "meaning": "hypertensive crisis"
+ },
+ {
+  "hanzi": "高血压控制",
+  "pinyin": "gāoxuèyākòngzhì",
+  "tones": "1-4-1-4-4",
+  "meaning": "blood pressure control"
+ },
+ {
+  "hanzi": "高铁几点出发",
+  "pinyin": "gāotiějǐdiǎnchūfā",
+  "tones": "1-3-3-3-1-1",
+  "meaning": "when does HSR leave"
+ },
+ {
+  "hanzi": "黄梅戏演出",
+  "pinyin": "huángméixìyǎnchū",
+  "tones": "2-2-4-3-1",
+  "meaning": "Huangmei opera show"
+ }
+]
