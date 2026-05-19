@@ -526,7 +526,7 @@ def main():
                 bg = WHITE_BG if i == 0 else GRAY_BG
                 print(f"  {bg} {key:>5}  {pinyin} {RESET}")
             n_alts = len(current.alts_data)
-            print(f"\n  [Space/1-{n_alts}] to play, [Enter] for next word, [Ctrl+C] to quit")
+            print(f"\n  [Space/1-{n_alts}] to play, [r]=random, [Enter] for next word, [Ctrl+C] to quit")
 
             # Interactive loop: Space/1-5 plays, Enter exits to next word
             while True:
@@ -539,6 +539,12 @@ def main():
                     idx = current.audio_index % len(current.main_paths)
                     play_wav(current.main_paths[idx], speed)
                     current.audio_index = (current.audio_index + 1) % len(current.main_paths)
+                elif ch == "r" and n_alts > 0:
+                    if random.random() < 0.5:
+                        pick = menu_items[0]
+                    else:
+                        pick = random.choice(menu_items[1:])
+                    pick[2]()
                 elif ch.isdigit() and 1 <= int(ch) <= n_alts:
                     menu_items[int(ch)][2]()
 
