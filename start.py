@@ -20,7 +20,7 @@ DEQUE_PATH = os.path.join(BASE_DIR, "deque.txt")
 DEQUE_MAX = 50
 DEFAULT_SPEED = 0.8
 NUM_AUDIO_VARIANTS = 5
-TOKENS_PER_SYLLABLE = 10
+TOKENS_PER_SYLLABLE = 12
 DEBUG = "--debug" in sys.argv
 
 
@@ -366,13 +366,13 @@ def main():
 
         # Request main audio
         main_id = next_req_id()
-        max_tokens = len(phrase) * TOKENS_PER_SYLLABLE
+        max_tokens = int((len(phrase) + 1) * TOKENS_PER_SYLLABLE)
         req_q.put(("batch_same", main_id, phrase, NUM_AUDIO_VARIANTS, max_tokens))
 
         # Request alternatives audio
         alt_id = next_req_id()
         alt_phrases = [a[2] for a in alts_data]
-        alt_max_tokens = [len(p) * TOKENS_PER_SYLLABLE for p in alt_phrases]
+        alt_max_tokens = [int((len(p) + 1) * TOKENS_PER_SYLLABLE) for p in alt_phrases]
         req_q.put(("batch_different", alt_id, alt_phrases, alt_max_tokens))
 
         bundle = WordBundle(idx, card, alts_data)
