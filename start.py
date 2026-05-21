@@ -18,8 +18,9 @@ import soundfile as sf
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DEQUE_PATH = os.path.join(BASE_DIR, "deque.txt")
 DEQUE_MAX = 50
-DEFAULT_SPEED = 0.8
-NUM_AUDIO_VARIANTS = 5
+DEFAULT_SPEED = 1.0
+SPEAKERS = ["Vivian", "Serena", "Uncle_Fu", "Dylan", "Eric"]
+VOICE_INSTRUCT = "Clear, no hesitation, no extra noises, moderately paced, not loud, not quiet, calm."
 TOKENS_PER_SYLLABLE = 12
 DEBUG = "--debug" in sys.argv
 
@@ -30,7 +31,7 @@ def audio_worker(req_q: mp.Queue, resp_q: mp.Queue, debug: bool):
     from mlx_audio.tts.utils import load_model
 
     print("[worker] Loading model...")
-    model = load_model("mlx-community/Qwen3-TTS-12Hz-0.6B-Base-bf16")
+    model = load_model("mlx-community/Qwen3-TTS-12Hz-1.7B-CustomVoice-bf16")
     print("[worker] Model loaded.")
     resp_q.put(("model_ready",))
 
@@ -41,42 +42,42 @@ def audio_worker(req_q: mp.Queue, resp_q: mp.Queue, debug: bool):
 
         tag = msg[0]
 
-        if tag == "batch_same":
-            _, req_id, phrase, count, max_tokens = msg
-            texts = [phrase] * count
-            voices = ["Chelsie"] * count
+        if tag == "gen_main":
+            _, req_id, phrase, max_tokens = msg
             paths = []
-            for result in model.batch_generate(texts=texts, voices=voices, lang_code="chinese",
-                                               max_tokens=max_tokens):
+            for speaker in SPEAKERS:
+                results = list(model.generate_custom_voice(
+                    text=phrase, speaker=speaker, language="Chinese",
+                    instruct=VOICE_INSTRUCT, max_tokens=max_tokens))
+                audio = results[0].audio
                 f = tempfile.NamedTemporaryFile(suffix=".wav", delete=False)
-                sf.write(f.name, result.audio, 24000)
+                sf.write(f.name, audio, 24000)
                 f.close()
                 paths.append(f.name)
                 if debug:
-                    print(f"  [dbg] variant {result.sequence_idx}: {result.token_count}/{max_tokens} tokens, "
-                          f"{result.audio_duration}, {result.samples} samples, "
-                          f"{result.processing_time_seconds:.2f}s, {result.peak_memory_usage:.1f}MB")
+                    print(f"  [dbg] main {speaker}: {len(audio)} samples")
             if debug:
-                print(f"  [dbg] generated {len(paths)} variants for '{phrase}'")
+                print(f"  [dbg] generated {len(paths)} main variants for '{phrase}'")
             resp_q.put(("audio_ready", req_id, paths))
 
-        elif tag == "batch_different":
-            _, req_id, phrases, max_tokens_list = msg
+        elif tag == "gen_alts":
+            _, req_id, phrases, max_tokens_list, speaker = msg
             if not phrases:
                 resp_q.put(("alts_ready", req_id, []))
                 continue
-            voices = ["Chelsie"] * len(phrases)
-            mt = max(max_tokens_list) if max_tokens_list else 40
             paths = []
-            for result in model.batch_generate(texts=phrases, voices=voices, lang_code="chinese",
-                                               max_tokens=mt):
+            for i, phrase in enumerate(phrases):
+                mt = max_tokens_list[i] if i < len(max_tokens_list) else 40
+                results = list(model.generate_custom_voice(
+                    text=phrase, speaker=speaker, language="Chinese",
+                    instruct=VOICE_INSTRUCT, max_tokens=mt))
+                audio = results[0].audio
                 f = tempfile.NamedTemporaryFile(suffix=".wav", delete=False)
-                sf.write(f.name, result.audio, 24000)
+                sf.write(f.name, audio, 24000)
                 f.close()
                 paths.append(f.name)
                 if debug:
-                    print(f"  [dbg] alt {result.sequence_idx}: '{phrases[result.sequence_idx]}' "
-                          f"{result.token_count}/{mt} tokens, {result.audio_duration}")
+                    print(f"  [dbg] alt {i}: '{phrase}' with {speaker}")
             if debug:
                 print(f"  [dbg] generated {len(paths)} alternative audios")
             resp_q.put(("alts_ready", req_id, paths))
@@ -280,10 +281,11 @@ def find_alternatives(phrase: str, original_tones: list[int], alts_dict: dict, n
 class WordBundle:
     """Holds all data for one word: card, main audio paths, alt data + audio paths."""
 
-    def __init__(self, idx, card, alts_data):
+    def __init__(self, idx, card, alts_data, speaker_idx):
         self.idx = idx
         self.card = card
         self.alts_data = alts_data        # list of (dist, tone_tuple, alt_phrase)
+        self.speaker_idx = speaker_idx     # index into SPEAKERS
         self.main_paths = None             # filled when audio_ready received
         self.alt_paths = None              # filled when alts_ready received
         self.audio_index = 0
@@ -363,19 +365,20 @@ def main():
         phrase = card["hanzi"]
         orig_tones = [int(t) for t in card["tones"].split("-")]
         alts_data = find_alternatives(phrase, orig_tones, alts_dict, n=5)
+        speaker_idx = random.randrange(len(SPEAKERS))
 
-        # Request main audio
+        # Request main audio (one variant per speaker)
         main_id = next_req_id()
         max_tokens = int((len(phrase) + 1) * TOKENS_PER_SYLLABLE)
-        req_q.put(("batch_same", main_id, phrase, NUM_AUDIO_VARIANTS, max_tokens))
+        req_q.put(("gen_main", main_id, phrase, max_tokens))
 
-        # Request alternatives audio
+        # Request alternatives audio (all with the chosen speaker)
         alt_id = next_req_id()
         alt_phrases = [a[2] for a in alts_data]
         alt_max_tokens = [int((len(p) + 1) * TOKENS_PER_SYLLABLE) for p in alt_phrases]
-        req_q.put(("batch_different", alt_id, alt_phrases, alt_max_tokens))
+        req_q.put(("gen_alts", alt_id, alt_phrases, alt_max_tokens, SPEAKERS[speaker_idx]))
 
-        bundle = WordBundle(idx, card, alts_data)
+        bundle = WordBundle(idx, card, alts_data, speaker_idx)
         pending[main_id] = ("main", bundle)
         pending[alt_id] = ("alts", bundle)
         return bundle
@@ -429,12 +432,11 @@ def main():
         if len(deque) > DEQUE_MAX:
             deque.pop(0)
         guessed = False
-        bundle.audio_index = 0
 
         # Wait for main audio if not ready
         wait_for(bundle, "main_paths")
-        play_wav(bundle.main_paths[0], speed)
-        bundle.audio_index = 1
+        play_wav(bundle.main_paths[bundle.audio_index], speed)
+        bundle.audio_index = (bundle.audio_index + 1) % len(bundle.main_paths)
         print_controls()
 
     def start_prefetch():
@@ -473,8 +475,7 @@ def main():
             if current is None:
                 print("No phrase yet. Press Enter.")
             else:
-                idx = current.audio_index % len(current.main_paths)
-                play_wav(current.main_paths[idx], speed)
+                play_wav(current.main_paths[current.audio_index], speed)
                 current.audio_index = (current.audio_index + 1) % len(current.main_paths)
                 show_prompt = False
 
@@ -507,7 +508,7 @@ def main():
 
             menu_items = []  # (label, pinyin, play_fn)
             menu_items.append(("Space", orig_pinyin,
-                               lambda: play_wav(current.main_paths[0], speed)))
+                               lambda: play_wav(current.main_paths[current.speaker_idx], speed)))
             for i, (dist, tone_tuple, alt_phrase) in enumerate(current.alts_data):
                 alt_pinyin = get_pinyin(alt_phrase)
                 idx_i = i  # capture
@@ -536,9 +537,7 @@ def main():
                 if ch in ("\r", "\n"):
                     break
                 if ch == " ":
-                    idx = current.audio_index % len(current.main_paths)
-                    play_wav(current.main_paths[idx], speed)
-                    current.audio_index = (current.audio_index + 1) % len(current.main_paths)
+                    play_wav(current.main_paths[current.speaker_idx], speed)
                 elif ch == "r" and n_alts > 0:
                     if random.random() < 0.5:
                         pick = menu_items[0]
