@@ -410,6 +410,7 @@ def main():
             _handle_response(resp)
 
     current = None
+    previous = None
     prefetch = None
     guessed = False
 
@@ -417,6 +418,8 @@ def main():
         save_deque(deque)
         if current:
             current.cleanup()
+        if previous:
+            previous.cleanup()
         if prefetch:
             prefetch.cleanup()
         req_q.put(None)
@@ -424,9 +427,10 @@ def main():
         sys.exit(0)
 
     def activate_word(bundle):
-        nonlocal current, guessed
-        if current:
-            current.cleanup()
+        nonlocal current, previous, guessed
+        if previous:
+            previous.cleanup()
+        previous = current
         current = bundle
         deque.append((level, bundle.idx))
         if len(deque) > DEQUE_MAX:
@@ -528,6 +532,13 @@ def main():
                 print(f"  {bg} {key:>5}  {pinyin} {RESET}")
             n_alts = len(current.alts_data)
             print(f"\n  [Space/1-{n_alts}] to play, [r]=random, [Enter] for next word, [Ctrl+C] to quit")
+            SHIFT_DIGITS = {'!': 1, '@': 2, '#': 3, '$': 4, '%': 5}
+            if previous and previous.main_paths:
+                prev_n = min(len(previous.alts_data), len(previous.alt_paths)) if previous.alt_paths else 0
+                if prev_n > 0:
+                    print(f"  [Shift+P] replay previous ({previous.phrase}), [Shift+1-{prev_n}] previous alts")
+                else:
+                    print(f"  [Shift+P] replay previous ({previous.phrase})")
 
             # Interactive loop: Space/1-5 plays, Enter exits to next word
             while True:
@@ -546,6 +557,12 @@ def main():
                     pick[2]()
                 elif ch.isdigit() and 1 <= int(ch) <= n_alts:
                     menu_items[int(ch)][2]()
+                elif ch == "P" and previous and previous.main_paths:
+                    play_wav(previous.main_paths[previous.speaker_idx], speed)
+                elif ch in SHIFT_DIGITS and previous and previous.alt_paths:
+                    d = SHIFT_DIGITS[ch]
+                    if 1 <= d <= len(previous.alts_data) and d - 1 < len(previous.alt_paths):
+                        play_wav(previous.alt_paths[d - 1], speed)
 
             # Enter pressed -> next word
             print(f"\n🔊 Loading next phrase...")
